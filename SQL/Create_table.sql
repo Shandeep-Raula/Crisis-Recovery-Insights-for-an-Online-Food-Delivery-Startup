@@ -17,17 +17,6 @@ CREATE TABLE dim_delivery_partner (
     is_active TINYINT(1)
 );
 
--- dim_menu_item
-CREATE TABLE dim_menu_item (
-    menu_item_id INT PRIMARY KEY,
-    restaurant_id INT,
-    item_name VARCHAR(150),
-    category VARCHAR(80),
-    is_veg TINYINT(1),
-    price DECIMAL(10,2),
-    FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id)
-);
-
 -- dim_restaurant
 CREATE TABLE dim_restaurant (
     restaurant_id INT PRIMARY KEY,
@@ -39,25 +28,14 @@ CREATE TABLE dim_restaurant (
     is_active TINYINT(1)
 );
 
--- fact_delivery_performance
-CREATE TABLE fact_delivery_performance (
-    order_id INT PRIMARY KEY,
-    actual_delivery_time_mins INT,
-    expected_delivery_time_mins INT,
-    distance_km FLOAT
-);
-
--- fact_order_items
-CREATE TABLE fact_order_items (
-    order_id INT,
-    item_id INT PRIMARY KEY,
-    menu_item_id INT,
+-- dim_menu_item
+CREATE TABLE dim_menu_item (
+    menu_item_id INT PRIMARY KEY,
     restaurant_id INT,
-    quantity INT,
-    unit_price DECIMAL(10,2),
-    item_discount DECIMAL(10,2),
-    line_total DECIMAL(10,2),
-    FOREIGN KEY (menu_item_id) REFERENCES dim_menu_item(menu_item_id),
+    item_name VARCHAR(150),
+    category VARCHAR(80),
+    is_veg TINYINT(1),
+    price DECIMAL(10,2),
     FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id)
 );
 
@@ -77,6 +55,30 @@ CREATE TABLE fact_orders (
     FOREIGN KEY (customer_id) REFERENCES dim_customer(customer_id),
     FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id),
     FOREIGN KEY (delivery_partner_id) REFERENCES dim_delivery_partner(delivery_partner_id)
+);
+
+-- fact_delivery_performance
+CREATE TABLE fact_delivery_performance (
+    order_id INT PRIMARY KEY,
+    actual_delivery_time_mins INT,
+    expected_delivery_time_mins INT,
+    distance_km FLOAT,
+    FOREIGN KEY (order_id) REFERENCES fact_orders(order_id)
+);
+
+-- fact_order_items
+CREATE TABLE fact_order_items (
+    order_id INT,
+    item_id INT PRIMARY KEY,
+    menu_item_id INT,
+    restaurant_id INT,
+    quantity INT,
+    unit_price DECIMAL(10,2),
+    item_discount DECIMAL(10,2),
+    line_total DECIMAL(10,2),
+    FOREIGN KEY (order_id) REFERENCES fact_orders(order_id),
+    FOREIGN KEY (menu_item_id) REFERENCES dim_menu_item(menu_item_id),
+    FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id)
 );
 
 -- fact_ratings
