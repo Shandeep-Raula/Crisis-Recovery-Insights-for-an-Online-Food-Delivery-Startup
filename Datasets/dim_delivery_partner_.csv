@@ -20,7 +20,7 @@ DP13191,Arjun Z,Mumbai,Scooter,Contract,4.41,Y
 DP13337,Amit M,Hyderabad,Scooter,Part-time,4.01,Y
 DP07869,Ananya P,Bengaluru,Bike,Part-time,3.94,Y
 DP14443,Shreya R,Ahmedabad,Scooter,Contract,4.32,Y
-DP13891,Shreya U,Delhi,Car,Full-time,4.0,Y
+DP13891,Shreya U,Delhi,Car,Full-time,4,Y
 DP13979,Nikhil D,Pune,Bike,Contract,4.07,Y
 DP01521,Kiran A,Pune,Scooter,Contract,4.48,Y
 DP04031,Arjun J,Kolkata,Bike,Part-time,4.07,Y
@@ -38,7 +38,7 @@ DP02333,Ananya B,Bengaluru,Scooter,Part-time,4.69,Y
 DP02395,Shreya H,Pune,Cycle,Full-time,3.95,Y
 DP11158,Meena I,Mumbai,Cycle,Full-time,4.01,Y
 DP02663,Divya J,Mumbai,Cycle,Part-time,4.08,Y
-DP04968,Pooja Z,Bengaluru,Bike,Full-time,5.0,Y
+DP04968,Pooja Z,Bengaluru,Bike,Full-time,5,Y
 DP01370,Kiran E,Ahmedabad,Cycle,Part-time,3.63,Y
 DP11740,Deepak G,Ahmedabad,Scooter,Full-time,3.5,Y
 DP02710,Amit M,Bengaluru,Car,Part-time,4.38,Y
@@ -134,7 +134,7 @@ DP14074,Santosh A,Chennai,Cycle,Full-time,4.14,Y
 DP07410,Nikhil U,Ahmedabad,Bike,Full-time,3.97,Y
 DP13135,Meena J,Bengaluru,Bike,Part-time,4.03,Y
 DP14357,Pooja F,Bengaluru,Scooter,Full-time,4.22,Y
-DP07367,Rahul R,Bengaluru,Scooter,Part-time,4.0,Y
+DP07367,Rahul R,Bengaluru,Scooter,Part-time,4,Y
 DP11743,Amit Q,Ahmedabad,Scooter,Contract,3.65,Y
 DP05853,Ravi V,Hyderabad,Cycle,Full-time,4.4,Y
 DP02217,Kiran A,Ahmedabad,Scooter,Contract,4.1,Y
@@ -261,7 +261,7 @@ DP05721,Amit H,Delhi,Scooter,Contract,3.61,Y
 DP11684,Santosh F,Ahmedabad,Bike,Full-time,4.45,Y
 DP11694,Vikas D,Chennai,Bike,Part-time,4.25,Y
 DP09647,Deepak E,Pune,Scooter,Contract,4.46,Y
-DP01309,Priya H,Bengaluru,Scooter,Part-time,5.0,Y
+DP01309,Priya H,Bengaluru,Scooter,Part-time,5,Y
 DP06331,Santosh G,Delhi,Scooter,Full-time,3.98,Y
 DP05558,Kiran S,Hyderabad,Scooter,Full-time,4.31,Y
 DP02679,Sneha T,Chennai,Scooter,Full-time,3.86,Y
@@ -351,7 +351,7 @@ DP13533,Vikas C,Ahmedabad,Bike,Part-time,3.84,Y
 DP04875,Amit V,Delhi,Scooter,Contract,4.03,Y
 DP10845,Vikas A,Ahmedabad,Scooter,Full-time,3.64,Y
 DP08763,Rahul I,Hyderabad,Car,Full-time,4.67,Y
-DP09240,Priya J,Chennai,Scooter,Full-time,5.0,Y
+DP09240,Priya J,Chennai,Scooter,Full-time,5,Y
 DP00806,Ananya C,Mumbai,Scooter,Part-time,4.41,Y
 DP03348,Arjun K,Bengaluru,Bike,Full-time,4.35,Y
 DP13449,Santosh T,Mumbai,Bike,Contract,4.09,Y
@@ -368,7 +368,7 @@ DP10430,Neha Y,Delhi,Bike,Full-time,3.81,N
 DP08724,Ravi Z,Kolkata,Scooter,Full-time,4.02,Y
 DP10096,Kiran D,Pune,Cycle,Contract,3.95,Y
 DP03299,Santosh B,Kolkata,Scooter,Full-time,4.32,Y
-DP13570,Shreya U,Mumbai,Car,Full-time,4.0,Y
+DP13570,Shreya U,Mumbai,Car,Full-time,4,Y
 DP06892,Ravi O,Mumbai,Scooter,Full-time,4.65,Y
 DP12095,Nikhil Y,Bengaluru,Scooter,Full-time,4.93,Y
 DP05486,Kiran J,Mumbai,Scooter,Contract,4.15,Y
@@ -547,7 +547,7 @@ DP06236,Vikas X,Delhi,Car,Contract,4.42,Y
 DP08920,Santosh U,Delhi,Scooter,Full-time,3.58,Y
 DP05898,Meena Z,Ahmedabad,Scooter,Full-time,4.24,Y
 DP09754,Arjun K,Delhi,Scooter,Part-time,4.2,Y
-DP06113,Ravi A,Bengaluru,Scooter,Full-time,4.0,Y
+DP06113,Ravi A,Bengaluru,Scooter,Full-time,4,Y
 DP00128,Rahul S,Bengaluru,Bike,Part-time,4.6,Y
 DP05565,Priya R,Delhi,Bike,Part-time,3.8,Y
 DP02286,Rahul L,Kolkata,Car,Part-time,4.19,Y
@@ -575,7 +575,7 @@ DP12464,Neha M,Ahmedabad,Bike,Full-time,3.78,Y
 DP04014,Rahul N,Bengaluru,Cycle,Full-time,4.12,Y
 DP13398,Santosh Y,Ahmedabad,Bike,Part-time,4.14,Y
 DP11237,Neha L,Mumbai,Scooter,Full-time,3.89,Y
-DP00173,Manoj O,Delhi,Cycle,Part-time,4.0,Y
+DP00173,Manoj O,Delhi,Cycle,Part-time,4,Y
 DP00072,Kiran O,Bengaluru,Scooter,Full-time,4.3,Y
 DP10635,Meena O,Bengaluru,Bike,Full-time,3.99,Y
 DP08203,Kiran W,Bengaluru,Bike,Part-time,4.62,Y
@@ -605,7 +605,7 @@ DP10893,Ravi W,Bengaluru,Scooter,Part-time,4.76,Y
 DP04744,Deepak L,Pune,Bike,Full-time,3.91,Y
 DP06261,Vikas U,Bengaluru,Bike,Full-time,4.78,Y
 DP02704,Deepak B,Chennai,Scooter,Full-time,4.54,Y
-DP07959,Nikhil Q,Mumbai,Scooter,Full-time,4.0,N
+DP07959,Nikhil Q,Mumbai,Scooter,Full-time,4,N
 DP07331,Ravi I,Bengaluru,Cycle,Part-time,3.94,Y
 DP09424,Rakesh G,Hyderabad,Scooter,Full-time,3.79,Y
 DP13622,Vikas F,Mumbai,Scooter,Full-time,4.11,Y
@@ -683,7 +683,7 @@ DP09604,Kiran L,Delhi,Cycle,Full-time,4.12,Y
 DP08335,Rakesh D,Pune,Scooter,Full-time,3.89,Y
 DP02981,Manoj B,Bengaluru,Bike,Full-time,3.98,Y
 DP06907,Nikhil U,Bengaluru,Scooter,Full-time,3.83,Y
-DP09535,Kiran W,Hyderabad,Bike,Full-time,5.0,Y
+DP09535,Kiran W,Hyderabad,Bike,Full-time,5,Y
 DP11929,Deepak Z,Pune,Cycle,Full-time,3.8,Y
 DP05205,Meena G,Ahmedabad,Scooter,Full-time,4.02,N
 DP03477,Meena T,Delhi,Scooter,Full-time,4.45,Y
@@ -863,7 +863,7 @@ DP08057,Priya G,Chennai,Scooter,Full-time,4.12,Y
 DP07362,Amit K,Pune,Car,Full-time,4.41,Y
 DP06031,Rakesh B,Chennai,Car,Full-time,4.4,Y
 DP02047,Amit S,Mumbai,Scooter,Full-time,3.99,Y
-DP03089,Rahul E,Bengaluru,Bike,Full-time,4.0,Y
+DP03089,Rahul E,Bengaluru,Bike,Full-time,4,Y
 DP05610,Vikas P,Delhi,Cycle,Full-time,3.88,Y
 DP08929,Priya K,Mumbai,Bike,Full-time,3.93,Y
 DP03019,Sneha E,Kolkata,Bike,Part-time,4.48,Y
@@ -877,7 +877,7 @@ DP04263,Kiran B,Kolkata,Scooter,Full-time,4.05,Y
 DP11012,Manoj D,Delhi,Car,Full-time,4.25,Y
 DP10163,Vikas W,Delhi,Cycle,Full-time,3.96,Y
 DP06442,Shreya K,Ahmedabad,Scooter,Part-time,4.23,Y
-DP10899,Neha N,Chennai,Scooter,Contract,4.0,Y
+DP10899,Neha N,Chennai,Scooter,Contract,4,Y
 DP11093,Santosh Z,Delhi,Cycle,Contract,3.85,Y
 DP11218,Suresh A,Mumbai,Bike,Contract,4.44,Y
 DP13253,Neha V,Mumbai,Scooter,Contract,4.34,Y
@@ -1195,7 +1195,7 @@ DP08728,Arjun Y,Bengaluru,Scooter,Full-time,4.75,Y
 DP02046,Nikhil R,Bengaluru,Cycle,Contract,4.11,Y
 DP01018,Ravi N,Mumbai,Bike,Part-time,4.05,Y
 DP02301,Ananya E,Bengaluru,Bike,Full-time,3.85,Y
-DP13610,Arjun L,Delhi,Bike,Full-time,5.0,Y
+DP13610,Arjun L,Delhi,Bike,Full-time,5,Y
 DP06207,Neha L,Mumbai,Scooter,Full-time,3.93,Y
 DP12332,Divya J,Delhi,Bike,Contract,4.38,N
 DP09840,Neha C,Delhi,Bike,Part-time,4.29,Y
@@ -1227,7 +1227,7 @@ DP03308,Meena O,Hyderabad,Cycle,Part-time,4.21,Y
 DP14803,Ananya C,Bengaluru,Scooter,Part-time,4.02,Y
 DP05401,Suresh T,Bengaluru,Scooter,Full-time,3.73,Y
 DP14595,Meena B,Chennai,Bike,Contract,3.87,Y
-DP12413,Kiran O,Hyderabad,Car,Full-time,4.0,N
+DP12413,Kiran O,Hyderabad,Car,Full-time,4,N
 DP12365,Ananya Y,Delhi,Scooter,Contract,4.21,Y
 DP10049,Arjun B,Delhi,Scooter,Full-time,3.84,Y
 DP14379,Rakesh N,Bengaluru,Bike,Full-time,3.69,Y
@@ -1281,7 +1281,7 @@ DP00429,Priya R,Bengaluru,Bike,Full-time,4.22,Y
 DP06632,Ananya V,Mumbai,Bike,Full-time,4.18,N
 DP01692,Neha G,Bengaluru,Cycle,Full-time,3.71,Y
 DP04309,Suresh U,Chennai,Scooter,Full-time,4.05,Y
-DP11847,Sneha C,Delhi,Cycle,Full-time,4.0,Y
+DP11847,Sneha C,Delhi,Cycle,Full-time,4,Y
 DP14842,Shreya R,Ahmedabad,Bike,Full-time,4.33,Y
 DP11224,Priya Y,Ahmedabad,Car,Contract,4.49,Y
 DP12402,Manoj D,Bengaluru,Bike,Full-time,4.31,Y
@@ -1377,7 +1377,7 @@ DP10173,Arjun W,Delhi,Cycle,Full-time,4.49,Y
 DP11320,Nikhil A,Hyderabad,Scooter,Contract,4.08,N
 DP09359,Nikhil I,Hyderabad,Bike,Part-time,4.31,N
 DP14928,Pooja W,Delhi,Bike,Full-time,3.93,Y
-DP12594,Kiran P,Delhi,Bike,Full-time,4.0,N
+DP12594,Kiran P,Delhi,Bike,Full-time,4,N
 DP01882,Rakesh E,Mumbai,Bike,Contract,4.17,Y
 DP06762,Divya W,Chennai,Bike,Full-time,4.08,Y
 DP01504,Meena S,Pune,Bike,Part-time,4.25,Y
@@ -1432,7 +1432,7 @@ DP12923,Sneha U,Ahmedabad,Cycle,Contract,4.01,Y
 DP07073,Vikas W,Bengaluru,Bike,Part-time,4.45,N
 DP08583,Neha W,Pune,Car,Part-time,4.26,Y
 DP13602,Manoj R,Mumbai,Scooter,Full-time,4.51,Y
-DP08161,Ananya K,Bengaluru,Bike,Part-time,4.0,Y
+DP08161,Ananya K,Bengaluru,Bike,Part-time,4,Y
 DP06802,Rakesh E,Chennai,Bike,Part-time,4.41,Y
 DP06670,Amit R,Bengaluru,Scooter,Full-time,4.46,Y
 DP14464,Vikas Z,Bengaluru,Scooter,Full-time,4.74,Y
@@ -1474,7 +1474,7 @@ DP08472,Meena D,Bengaluru,Scooter,Part-time,3.82,Y
 DP01476,Priya R,Bengaluru,Scooter,Contract,3.87,Y
 DP14699,Nikhil U,Chennai,Cycle,Contract,3.97,N
 DP02919,Pooja J,Bengaluru,Bike,Part-time,3.96,Y
-DP03531,Priya F,Mumbai,Scooter,Full-time,5.0,Y
+DP03531,Priya F,Mumbai,Scooter,Full-time,5,Y
 DP03883,Shreya W,Ahmedabad,Bike,Full-time,3.87,N
 DP01602,Amit O,Bengaluru,Scooter,Part-time,4.2,Y
 DP13181,Vikas Q,Bengaluru,Bike,Full-time,4.22,Y
@@ -1511,7 +1511,7 @@ DP14089,Meena I,Bengaluru,Car,Full-time,4.01,Y
 DP13502,Rahul C,Delhi,Bike,Full-time,4.21,Y
 DP12481,Suresh K,Delhi,Bike,Part-time,4.49,Y
 DP08619,Meena Q,Mumbai,Scooter,Part-time,4.22,Y
-DP08492,Amit M,Mumbai,Bike,Full-time,4.0,Y
+DP08492,Amit M,Mumbai,Bike,Full-time,4,Y
 DP10640,Pooja H,Bengaluru,Scooter,Full-time,4.46,Y
 DP02419,Ananya P,Bengaluru,Scooter,Part-time,3.75,Y
 DP10057,Manoj Y,Bengaluru,Bike,Contract,3.98,Y
@@ -1552,7 +1552,7 @@ DP03417,Nikhil C,Mumbai,Cycle,Full-time,4.82,Y
 DP01712,Ananya S,Hyderabad,Scooter,Full-time,4.29,Y
 DP01772,Ravi L,Chennai,Bike,Full-time,4.04,Y
 DP11742,Shreya N,Mumbai,Bike,Part-time,3.62,Y
-DP05382,Neha B,Ahmedabad,Bike,Contract,4.0,Y
+DP05382,Neha B,Ahmedabad,Bike,Contract,4,Y
 DP14513,Pooja Q,Pune,Scooter,Part-time,4.59,Y
 DP10747,Neha B,Bengaluru,Scooter,Part-time,4.35,Y
 DP02356,Ananya A,Ahmedabad,Scooter,Contract,4.13,Y
@@ -1670,8 +1670,8 @@ DP08130,Arjun N,Hyderabad,Bike,Contract,4.42,Y
 DP07842,Sneha X,Chennai,Bike,Contract,4.53,Y
 DP11763,Rahul H,Bengaluru,Cycle,Full-time,4.2,Y
 DP02079,Meena N,Chennai,Scooter,Part-time,4.57,Y
-DP08420,Pooja Z,Mumbai,Cycle,Full-time,4.0,Y
-DP10586,Deepak R,Hyderabad,Car,Contract,5.0,Y
+DP08420,Pooja Z,Mumbai,Cycle,Full-time,4,Y
+DP10586,Deepak R,Hyderabad,Car,Contract,5,Y
 DP04648,Amit V,Bengaluru,Scooter,Part-time,4.21,Y
 DP02786,Amit H,Delhi,Bike,Part-time,3.77,Y
 DP02852,Vikas X,Chennai,Bike,Full-time,4.15,Y
@@ -1767,7 +1767,7 @@ DP12767,Divya U,Bengaluru,Cycle,Part-time,4.78,N
 DP08319,Meena G,Kolkata,Scooter,Part-time,4.64,Y
 DP08241,Kiran H,Chennai,Bike,Full-time,4.03,N
 DP02993,Divya G,Hyderabad,Car,Full-time,4.63,Y
-DP14208,Sneha D,Pune,Cycle,Full-time,5.0,N
+DP14208,Sneha D,Pune,Cycle,Full-time,5,N
 DP03988,Ananya H,Kolkata,Cycle,Contract,4.6,Y
 DP01793,Deepak Q,Bengaluru,Bike,Full-time,3.94,Y
 DP04338,Divya H,Mumbai,Scooter,Part-time,4.35,Y
@@ -1809,16 +1809,16 @@ DP06085,Sneha L,Chennai,Scooter,Full-time,4.39,Y
 DP06691,Amit O,Ahmedabad,Scooter,Full-time,4.02,Y
 DP02854,Shreya Z,Pune,Scooter,Full-time,4.07,Y
 DP09079,Ravi N,Chennai,Bike,Contract,4.28,Y
-DP11745,Priya P,Mumbai,Scooter,Contract,4.0,N
+DP11745,Priya P,Mumbai,Scooter,Contract,4,N
 DP00100,Rahul B,Ahmedabad,Cycle,Part-time,4.02,Y
 DP02483,Amit D,Kolkata,Cycle,Part-time,3.97,Y
 DP11828,Nikhil L,Delhi,Car,Contract,4.62,Y
 DP05497,Suresh F,Hyderabad,Bike,Part-time,4.06,Y
-DP02814,Santosh G,Ahmedabad,Scooter,Contract,5.0,Y
+DP02814,Santosh G,Ahmedabad,Scooter,Contract,5,Y
 DP04771,Santosh Q,Hyderabad,Scooter,Part-time,4.11,Y
 DP01739,Santosh K,Chennai,Scooter,Part-time,4.8,Y
 DP06752,Ananya F,Ahmedabad,Scooter,Full-time,3.88,Y
-DP01030,Kiran Z,Hyderabad,Bike,Full-time,4.0,Y
+DP01030,Kiran Z,Hyderabad,Bike,Full-time,4,Y
 DP00845,Ravi M,Kolkata,Scooter,Full-time,4.24,N
 DP06096,Manoj Z,Pune,Scooter,Full-time,4.19,Y
 DP04314,Divya S,Hyderabad,Bike,Contract,4.64,Y
@@ -1966,7 +1966,7 @@ DP07667,Pooja T,Bengaluru,Car,Full-time,3.98,N
 DP04907,Divya C,Pune,Scooter,Full-time,3.98,Y
 DP03147,Arjun M,Mumbai,Bike,Full-time,3.98,Y
 DP06201,Rakesh H,Mumbai,Bike,Part-time,4.18,Y
-DP03785,Pooja Y,Chennai,Bike,Full-time,4.0,Y
+DP03785,Pooja Y,Chennai,Bike,Full-time,4,Y
 DP14165,Priya L,Mumbai,Bike,Contract,4.35,Y
 DP00299,Rakesh O,Chennai,Car,Full-time,4.17,Y
 DP07497,Rakesh U,Delhi,Cycle,Full-time,3.93,N
@@ -2011,7 +2011,7 @@ DP02518,Meena D,Bengaluru,Bike,Part-time,4.21,Y
 DP11854,Ravi P,Bengaluru,Scooter,Full-time,4.09,Y
 DP09903,Suresh R,Hyderabad,Scooter,Full-time,4.21,Y
 DP09165,Shreya M,Mumbai,Scooter,Full-time,4.04,Y
-DP10901,Ananya P,Ahmedabad,Scooter,Part-time,4.0,Y
+DP10901,Ananya P,Ahmedabad,Scooter,Part-time,4,Y
 DP00148,Vikas P,Chennai,Scooter,Full-time,4.42,Y
 DP06908,Meena H,Mumbai,Bike,Contract,4.52,N
 DP06399,Meena H,Delhi,Scooter,Contract,4.41,Y
@@ -2058,7 +2058,7 @@ DP04202,Suresh G,Bengaluru,Bike,Contract,4.64,N
 DP00984,Shreya E,Delhi,Cycle,Full-time,4.41,Y
 DP09623,Pooja T,Bengaluru,Bike,Part-time,4.28,N
 DP11392,Sneha J,Hyderabad,Scooter,Contract,3.85,Y
-DP00259,Deepak T,Kolkata,Car,Full-time,4.0,Y
+DP00259,Deepak T,Kolkata,Car,Full-time,4,Y
 DP14353,Rakesh Y,Ahmedabad,Scooter,Full-time,4.22,Y
 DP04386,Manoj E,Kolkata,Bike,Full-time,4.55,Y
 DP13718,Ananya C,Bengaluru,Bike,Full-time,4.37,Y
@@ -2103,11 +2103,11 @@ DP00868,Pooja A,Mumbai,Bike,Part-time,4.33,Y
 DP07165,Vikas O,Mumbai,Bike,Contract,4.06,Y
 DP05027,Santosh K,Delhi,Cycle,Part-time,4.13,Y
 DP12016,Ravi D,Mumbai,Bike,Full-time,4.76,Y
-DP13758,Suresh F,Pune,Bike,Part-time,5.0,Y
+DP13758,Suresh F,Pune,Bike,Part-time,5,Y
 DP14364,Meena G,Bengaluru,Scooter,Contract,3.89,Y
 DP00582,Priya C,Bengaluru,Scooter,Part-time,4.25,Y
 DP06548,Deepak P,Bengaluru,Bike,Part-time,4.04,Y
-DP12897,Ravi V,Bengaluru,Cycle,Full-time,4.0,Y
+DP12897,Ravi V,Bengaluru,Cycle,Full-time,4,Y
 DP07819,Ravi G,Pune,Scooter,Part-time,4.62,Y
 DP03972,Deepak D,Kolkata,Scooter,Full-time,3.87,Y
 DP02528,Suresh R,Bengaluru,Bike,Contract,3.86,Y
@@ -2173,7 +2173,7 @@ DP13544,Ananya N,Chennai,Scooter,Contract,3.83,N
 DP09993,Pooja T,Bengaluru,Bike,Part-time,4.28,Y
 DP07892,Neha A,Mumbai,Scooter,Full-time,3.81,Y
 DP06063,Divya F,Pune,Scooter,Part-time,3.87,Y
-DP07832,Rahul B,Hyderabad,Scooter,Full-time,4.0,Y
+DP07832,Rahul B,Hyderabad,Scooter,Full-time,4,Y
 DP09169,Priya E,Hyderabad,Scooter,Contract,4.19,Y
 DP01159,Suresh H,Chennai,Scooter,Full-time,3.49,N
 DP03013,Sneha I,Mumbai,Car,Contract,4.13,Y
@@ -2326,7 +2326,7 @@ DP00811,Priya A,Delhi,Cycle,Full-time,4.21,Y
 DP00956,Deepak P,Bengaluru,Cycle,Part-time,4.89,Y
 DP08912,Deepak P,Delhi,Cycle,Full-time,4.21,Y
 DP10755,Shreya X,Mumbai,Cycle,Part-time,4.07,Y
-DP05261,Divya I,Kolkata,Bike,Full-time,4.0,Y
+DP05261,Divya I,Kolkata,Bike,Full-time,4,Y
 DP13653,Rahul G,Delhi,Bike,Part-time,3.88,N
 DP03540,Santosh Y,Bengaluru,Scooter,Full-time,4.36,Y
 DP09444,Meena E,Bengaluru,Scooter,Part-time,4.56,Y
@@ -2378,7 +2378,7 @@ DP03976,Meena C,Bengaluru,Bike,Full-time,4.41,N
 DP08978,Manoj L,Kolkata,Scooter,Full-time,3.98,Y
 DP10513,Deepak H,Ahmedabad,Bike,Full-time,4.42,Y
 DP07302,Priya Y,Mumbai,Cycle,Full-time,3.97,Y
-DP00479,Vikas A,Bengaluru,Bike,Contract,4.0,Y
+DP00479,Vikas A,Bengaluru,Bike,Contract,4,Y
 DP03079,Santosh D,Bengaluru,Scooter,Contract,4.25,Y
 DP14780,Suresh J,Mumbai,Bike,Full-time,4.2,Y
 DP12701,Sneha D,Bengaluru,Car,Full-time,4.41,Y
@@ -2547,7 +2547,7 @@ DP12527,Meena E,Mumbai,Bike,Part-time,4.4,N
 DP00226,Ravi M,Delhi,Bike,Contract,4.05,Y
 DP03984,Ravi Q,Delhi,Car,Contract,4.36,Y
 DP11617,Kiran U,Delhi,Scooter,Contract,3.98,Y
-DP11508,Sneha F,Hyderabad,Scooter,Full-time,5.0,Y
+DP11508,Sneha F,Hyderabad,Scooter,Full-time,5,Y
 DP10612,Neha Y,Hyderabad,Scooter,Full-time,3.98,Y
 DP03432,Shreya R,Kolkata,Scooter,Contract,4.64,Y
 DP03220,Ananya F,Hyderabad,Bike,Part-time,4.68,Y
@@ -2593,7 +2593,7 @@ DP04520,Ravi B,Bengaluru,Scooter,Full-time,4.32,Y
 DP03152,Neha E,Delhi,Scooter,Full-time,4.49,Y
 DP02775,Priya Y,Chennai,Bike,Part-time,4.23,Y
 DP12755,Sneha S,Hyderabad,Scooter,Contract,3.89,Y
-DP12615,Suresh R,Delhi,Bike,Full-time,4.0,Y
+DP12615,Suresh R,Delhi,Bike,Full-time,4,Y
 DP09370,Rahul O,Mumbai,Bike,Contract,4.44,Y
 DP06450,Suresh K,Delhi,Bike,Contract,4.11,Y
 DP05805,Deepak Q,Kolkata,Scooter,Contract,4.25,Y
@@ -2745,7 +2745,7 @@ DP01946,Nikhil A,Kolkata,Scooter,Contract,4.09,N
 DP08347,Vikas M,Chennai,Bike,Part-time,3.94,Y
 DP13699,Ravi Y,Hyderabad,Cycle,Full-time,4.04,N
 DP00922,Kiran Z,Chennai,Scooter,Part-time,3.92,N
-DP04808,Pooja E,Chennai,Bike,Contract,4.0,Y
+DP04808,Pooja E,Chennai,Bike,Contract,4,Y
 DP10309,Nikhil Y,Mumbai,Scooter,Full-time,4.3,Y
 DP10145,Kiran V,Pune,Scooter,Full-time,4.45,Y
 DP02943,Manoj A,Mumbai,Car,Full-time,4.23,Y
@@ -2847,7 +2847,7 @@ DP10201,Rahul M,Chennai,Car,Contract,4.61,Y
 DP06790,Deepak E,Bengaluru,Cycle,Full-time,4.07,Y
 DP03346,Vikas S,Delhi,Cycle,Contract,4.37,Y
 DP10777,Kiran C,Bengaluru,Bike,Contract,3.88,Y
-DP14548,Pooja R,Bengaluru,Bike,Part-time,4.0,N
+DP14548,Pooja R,Bengaluru,Bike,Part-time,4,N
 DP03942,Nikhil B,Hyderabad,Bike,Part-time,4.3,Y
 DP09006,Priya G,Mumbai,Bike,Part-time,3.76,Y
 DP00126,Nikhil H,Bengaluru,Scooter,Part-time,4.1,Y
@@ -2921,13 +2921,13 @@ DP08711,Rahul W,Hyderabad,Bike,Full-time,4.27,Y
 DP13280,Amit I,Delhi,Scooter,Full-time,4.05,Y
 DP01482,Divya P,Bengaluru,Scooter,Full-time,3.62,Y
 DP13907,Kiran B,Chennai,Bike,Full-time,4.5,Y
-DP01747,Amit W,Ahmedabad,Cycle,Contract,4.0,Y
+DP01747,Amit W,Ahmedabad,Cycle,Contract,4,Y
 DP05466,Meena R,Bengaluru,Scooter,Full-time,4.12,Y
 DP09500,Amit R,Bengaluru,Scooter,Contract,4.2,Y
 DP14752,Pooja A,Bengaluru,Bike,Full-time,4.08,Y
 DP00973,Ananya B,Pune,Bike,Part-time,4.14,Y
 DP02019,Santosh Y,Bengaluru,Bike,Full-time,4.21,Y
-DP05750,Manoj F,Mumbai,Bike,Contract,4.0,Y
+DP05750,Manoj F,Mumbai,Bike,Contract,4,Y
 DP00204,Meena V,Bengaluru,Bike,Full-time,4.08,Y
 DP08076,Meena P,Bengaluru,Bike,Part-time,4.07,Y
 DP07853,Meena N,Bengaluru,Scooter,Full-time,4.14,Y
@@ -2939,7 +2939,7 @@ DP09090,Nikhil M,Bengaluru,Cycle,Part-time,4.18,Y
 DP09551,Meena L,Bengaluru,Scooter,Part-time,4.37,Y
 DP14078,Ravi B,Hyderabad,Scooter,Part-time,4.4,Y
 DP08787,Divya R,Delhi,Bike,Contract,3.66,Y
-DP06112,Neha M,Bengaluru,Bike,Full-time,5.0,Y
+DP06112,Neha M,Bengaluru,Bike,Full-time,5,Y
 DP05168,Pooja R,Mumbai,Car,Full-time,4.35,Y
 DP02377,Santosh L,Mumbai,Scooter,Full-time,4.46,Y
 DP01350,Kiran Z,Hyderabad,Cycle,Part-time,4.9,Y
@@ -2998,7 +2998,7 @@ DP10832,Priya A,Bengaluru,Bike,Full-time,4.05,N
 DP11689,Arjun G,Kolkata,Scooter,Contract,4.38,Y
 DP05588,Santosh X,Mumbai,Scooter,Full-time,4.1,N
 DP07126,Vikas J,Ahmedabad,Scooter,Contract,4.33,Y
-DP11288,Meena M,Mumbai,Scooter,Contract,4.0,N
+DP11288,Meena M,Mumbai,Scooter,Contract,4,N
 DP10243,Kiran E,Bengaluru,Scooter,Full-time,4.46,N
 DP10766,Suresh K,Bengaluru,Scooter,Contract,4.15,N
 DP02504,Suresh X,Hyderabad,Bike,Full-time,4.22,N
@@ -3095,7 +3095,7 @@ DP14204,Pooja O,Kolkata,Scooter,Full-time,3.69,Y
 DP06688,Ananya Q,Hyderabad,Bike,Full-time,3.63,Y
 DP11070,Santosh D,Mumbai,Scooter,Full-time,4.22,Y
 DP11101,Ravi B,Pune,Scooter,Full-time,4.52,Y
-DP13029,Rakesh I,Delhi,Bike,Part-time,4.0,Y
+DP13029,Rakesh I,Delhi,Bike,Part-time,4,Y
 DP01600,Santosh A,Ahmedabad,Car,Full-time,4.09,N
 DP00756,Shreya D,Bengaluru,Bike,Full-time,3.98,N
 DP07987,Priya L,Bengaluru,Cycle,Part-time,4.06,N
@@ -3108,7 +3108,7 @@ DP10311,Shreya E,Ahmedabad,Cycle,Full-time,4.53,Y
 DP08751,Suresh L,Pune,Bike,Full-time,4.28,Y
 DP03863,Nikhil W,Delhi,Scooter,Contract,4.92,Y
 DP06234,Suresh R,Hyderabad,Bike,Contract,4.63,Y
-DP02584,Pooja C,Bengaluru,Cycle,Contract,4.0,Y
+DP02584,Pooja C,Bengaluru,Cycle,Contract,4,Y
 DP06011,Nikhil R,Chennai,Cycle,Part-time,4.68,Y
 DP09016,Manoj Z,Bengaluru,Bike,Part-time,4.15,N
 DP08214,Amit C,Kolkata,Bike,Full-time,4.14,Y
@@ -3382,7 +3382,7 @@ DP06698,Divya X,Hyderabad,Scooter,Part-time,4.59,Y
 DP06440,Vikas U,Chennai,Cycle,Part-time,3.79,Y
 DP01888,Ananya N,Pune,Scooter,Full-time,4.48,N
 DP11115,Suresh T,Hyderabad,Scooter,Part-time,4.2,N
-DP06563,Suresh K,Mumbai,Bike,Full-time,4.0,Y
+DP06563,Suresh K,Mumbai,Bike,Full-time,4,Y
 DP01578,Deepak F,Bengaluru,Bike,Part-time,4.17,Y
 DP13026,Manoj C,Bengaluru,Bike,Part-time,3.97,Y
 DP13500,Kiran W,Bengaluru,Bike,Contract,4.39,Y
@@ -3412,7 +3412,7 @@ DP13302,Neha X,Chennai,Bike,Part-time,4.29,Y
 DP09315,Shreya M,Chennai,Car,Part-time,4.74,Y
 DP14370,Nikhil H,Bengaluru,Scooter,Full-time,4.57,Y
 DP13639,Ananya N,Mumbai,Bike,Part-time,4.59,N
-DP12558,Meena J,Delhi,Bike,Full-time,4.0,N
+DP12558,Meena J,Delhi,Bike,Full-time,4,N
 DP09219,Arjun S,Chennai,Bike,Part-time,4.38,Y
 DP07929,Amit O,Bengaluru,Bike,Part-time,4.08,Y
 DP06838,Santosh U,Mumbai,Cycle,Full-time,4.21,Y
@@ -3485,7 +3485,7 @@ DP11354,Arjun X,Mumbai,Scooter,Part-time,4.52,Y
 DP03810,Kiran N,Pune,Car,Full-time,4.55,Y
 DP07766,Divya Z,Bengaluru,Scooter,Full-time,4.27,Y
 DP05872,Ravi I,Delhi,Scooter,Full-time,4.3,Y
-DP10531,Priya T,Mumbai,Bike,Part-time,5.0,Y
+DP10531,Priya T,Mumbai,Bike,Part-time,5,Y
 DP04307,Amit V,Bengaluru,Bike,Contract,4.46,Y
 DP12648,Rakesh A,Kolkata,Scooter,Full-time,3.41,Y
 DP02965,Kiran Q,Mumbai,Scooter,Contract,4.61,Y
@@ -3607,7 +3607,7 @@ DP02057,Ravi A,Mumbai,Cycle,Full-time,4.32,Y
 DP05711,Vikas J,Mumbai,Cycle,Full-time,4.59,Y
 DP09841,Ravi C,Hyderabad,Bike,Part-time,4.37,Y
 DP10779,Ravi K,Mumbai,Scooter,Full-time,4.06,Y
-DP14940,Rakesh F,Delhi,Bike,Full-time,4.0,N
+DP14940,Rakesh F,Delhi,Bike,Full-time,4,N
 DP12057,Divya O,Mumbai,Bike,Full-time,3.83,Y
 DP09286,Manoj D,Chennai,Scooter,Contract,3.95,N
 DP11334,Priya T,Ahmedabad,Scooter,Contract,3.78,Y
@@ -3620,7 +3620,7 @@ DP09941,Nikhil N,Chennai,Bike,Full-time,4.47,Y
 DP00162,Meena Z,Ahmedabad,Bike,Part-time,3.85,Y
 DP05533,Divya Z,Pune,Bike,Full-time,4.48,Y
 DP04437,Rakesh B,Delhi,Bike,Contract,4.43,Y
-DP02199,Manoj G,Mumbai,Bike,Part-time,4.0,Y
+DP02199,Manoj G,Mumbai,Bike,Part-time,4,Y
 DP01345,Divya W,Bengaluru,Scooter,Full-time,4.32,Y
 DP12400,Meena D,Delhi,Scooter,Part-time,3.9,Y
 DP07775,Shreya B,Bengaluru,Cycle,Full-time,4.38,Y
@@ -3713,7 +3713,7 @@ DP00830,Shreya A,Delhi,Scooter,Part-time,4.36,Y
 DP12808,Manoj P,Bengaluru,Bike,Full-time,4.26,N
 DP07356,Ravi N,Chennai,Cycle,Part-time,3.99,N
 DP11803,Rakesh F,Kolkata,Bike,Full-time,4.36,Y
-DP05318,Divya Y,Mumbai,Scooter,Contract,4.0,Y
+DP05318,Divya Y,Mumbai,Scooter,Contract,4,Y
 DP10973,Amit J,Kolkata,Cycle,Part-time,4.36,Y
 DP04799,Divya R,Pune,Bike,Full-time,4.57,Y
 DP00803,Deepak M,Ahmedabad,Bike,Full-time,4.1,Y
@@ -3745,13 +3745,13 @@ DP12957,Rakesh M,Delhi,Scooter,Part-time,4.25,Y
 DP07378,Ravi I,Pune,Bike,Contract,3.85,Y
 DP14577,Suresh H,Pune,Cycle,Part-time,4.49,Y
 DP08048,Rakesh B,Delhi,Bike,Full-time,4.17,Y
-DP01260,Divya I,Hyderabad,Cycle,Part-time,4.0,Y
+DP01260,Divya I,Hyderabad,Cycle,Part-time,4,Y
 DP01540,Deepak M,Kolkata,Scooter,Full-time,4.31,Y
 DP07430,Meena S,Mumbai,Bike,Full-time,4.62,Y
 DP04146,Santosh P,Delhi,Scooter,Part-time,3.8,Y
 DP12414,Meena X,Bengaluru,Scooter,Full-time,3.69,Y
 DP01298,Sneha U,Bengaluru,Scooter,Part-time,3.76,Y
-DP04632,Meena J,Bengaluru,Bike,Part-time,4.0,Y
+DP04632,Meena J,Bengaluru,Bike,Part-time,4,Y
 DP01933,Neha P,Bengaluru,Scooter,Full-time,4.27,Y
 DP14433,Suresh W,Bengaluru,Cycle,Full-time,4.3,N
 DP01501,Kiran Q,Delhi,Bike,Full-time,4.48,N
@@ -3870,7 +3870,7 @@ DP10563,Manoj E,Pune,Bike,Part-time,4.12,Y
 DP12306,Ravi I,Pune,Scooter,Part-time,4.04,Y
 DP13046,Neha S,Mumbai,Scooter,Part-time,4.36,Y
 DP13010,Santosh H,Delhi,Scooter,Full-time,4.09,Y
-DP09405,Rahul Z,Chennai,Scooter,Full-time,4.0,Y
+DP09405,Rahul Z,Chennai,Scooter,Full-time,4,Y
 DP13729,Ravi N,Mumbai,Cycle,Part-time,4.54,Y
 DP12664,Shreya S,Ahmedabad,Bike,Part-time,3.62,Y
 DP07613,Shreya W,Bengaluru,Bike,Full-time,3.85,Y
@@ -3908,7 +3908,7 @@ DP08765,Pooja T,Delhi,Scooter,Contract,3.98,N
 DP08990,Ravi U,Delhi,Scooter,Full-time,3.96,Y
 DP12006,Ravi I,Delhi,Scooter,Part-time,4.42,Y
 DP04129,Priya A,Delhi,Scooter,Full-time,3.92,N
-DP14748,Neha G,Hyderabad,Bike,Contract,4.0,Y
+DP14748,Neha G,Hyderabad,Bike,Contract,4,Y
 DP08631,Pooja Q,Kolkata,Scooter,Full-time,4.39,N
 DP04213,Suresh C,Bengaluru,Cycle,Full-time,4.4,Y
 DP07339,Santosh J,Chennai,Bike,Full-time,4.34,Y
@@ -4279,7 +4279,7 @@ DP07799,Vikas B,Bengaluru,Bike,Contract,3.71,Y
 DP06072,Arjun N,Bengaluru,Scooter,Full-time,4.23,Y
 DP05088,Shreya K,Ahmedabad,Cycle,Contract,4.17,Y
 DP06150,Manoj F,Delhi,Cycle,Full-time,3.71,Y
-DP13246,Amit S,Bengaluru,Bike,Full-time,4.0,Y
+DP13246,Amit S,Bengaluru,Bike,Full-time,4,Y
 DP13145,Vikas C,Ahmedabad,Bike,Full-time,3.92,Y
 DP14371,Pooja B,Hyderabad,Bike,Full-time,3.98,Y
 DP06223,Deepak H,Bengaluru,Scooter,Part-time,4.56,Y
@@ -4304,7 +4304,7 @@ DP03723,Rakesh H,Bengaluru,Bike,Full-time,4.01,Y
 DP13407,Manoj P,Hyderabad,Scooter,Part-time,3.8,Y
 DP07800,Rahul A,Mumbai,Bike,Full-time,4.36,Y
 DP09594,Nikhil C,Chennai,Scooter,Contract,4.24,Y
-DP00199,Meena X,Mumbai,Bike,Part-time,4.0,Y
+DP00199,Meena X,Mumbai,Bike,Part-time,4,Y
 DP06605,Meena X,Bengaluru,Bike,Part-time,3.92,Y
 DP02542,Meena X,Pune,Scooter,Full-time,3.75,Y
 DP03684,Sneha V,Delhi,Bike,Full-time,4.52,Y
@@ -4352,7 +4352,7 @@ DP09391,Ananya K,Ahmedabad,Scooter,Full-time,3.8,Y
 DP05766,Vikas B,Mumbai,Bike,Full-time,3.61,Y
 DP04260,Ananya X,Hyderabad,Bike,Contract,3.82,N
 DP07782,Kiran H,Chennai,Scooter,Full-time,4.2,Y
-DP04773,Suresh O,Delhi,Bike,Full-time,4.0,Y
+DP04773,Suresh O,Delhi,Bike,Full-time,4,Y
 DP00048,Nikhil B,Mumbai,Scooter,Full-time,3.9,Y
 DP00602,Neha C,Mumbai,Scooter,Full-time,4.75,Y
 DP00694,Rakesh T,Ahmedabad,Scooter,Contract,3.71,Y
@@ -4399,7 +4399,7 @@ DP05052,Meena W,Bengaluru,Scooter,Part-time,4.02,N
 DP10171,Deepak V,Mumbai,Scooter,Full-time,4.07,Y
 DP11958,Ananya F,Bengaluru,Car,Contract,3.86,Y
 DP03948,Ravi Z,Mumbai,Scooter,Part-time,4.24,Y
-DP09769,Ananya O,Mumbai,Car,Full-time,4.0,Y
+DP09769,Ananya O,Mumbai,Car,Full-time,4,Y
 DP01464,Suresh N,Delhi,Bike,Contract,4.13,Y
 DP03325,Meena U,Kolkata,Bike,Full-time,4.31,Y
 DP06254,Rakesh K,Kolkata,Scooter,Full-time,4.8,Y
@@ -4515,12 +4515,12 @@ DP10731,Rakesh R,Pune,Scooter,Full-time,4.58,Y
 DP08398,Santosh H,Ahmedabad,Bike,Full-time,4.16,Y
 DP09938,Ravi E,Chennai,Cycle,Part-time,4.44,Y
 DP13154,Rahul W,Bengaluru,Scooter,Contract,4.26,Y
-DP06953,Ananya Q,Mumbai,Scooter,Full-time,4.0,Y
+DP06953,Ananya Q,Mumbai,Scooter,Full-time,4,Y
 DP03018,Amit G,Pune,Bike,Part-time,3.99,Y
 DP01025,Vikas S,Kolkata,Bike,Full-time,4.32,Y
 DP00038,Deepak E,Pune,Scooter,Full-time,3.71,Y
 DP10072,Amit O,Kolkata,Bike,Part-time,4.29,Y
-DP06903,Ananya B,Delhi,Bike,Full-time,5.0,Y
+DP06903,Ananya B,Delhi,Bike,Full-time,5,Y
 DP05054,Priya X,Ahmedabad,Cycle,Full-time,4.31,Y
 DP03306,Suresh T,Pune,Bike,Part-time,4.14,Y
 DP05368,Divya C,Bengaluru,Scooter,Contract,4.54,Y
@@ -4602,7 +4602,7 @@ DP04217,Ananya N,Hyderabad,Cycle,Full-time,3.86,Y
 DP00150,Manoj M,Mumbai,Scooter,Part-time,4.39,Y
 DP10172,Santosh P,Delhi,Scooter,Full-time,4.47,Y
 DP02754,Deepak M,Kolkata,Cycle,Part-time,4.44,Y
-DP04529,Kiran E,Mumbai,Bike,Full-time,4.0,Y
+DP04529,Kiran E,Mumbai,Bike,Full-time,4,Y
 DP04849,Divya P,Kolkata,Bike,Part-time,4.03,Y
 DP11692,Rakesh A,Kolkata,Bike,Full-time,4.55,N
 DP00865,Ananya T,Kolkata,Cycle,Full-time,3.87,Y
@@ -4680,7 +4680,7 @@ DP10245,Rakesh M,Ahmedabad,Scooter,Contract,4.21,Y
 DP10076,Divya D,Chennai,Scooter,Part-time,4.28,Y
 DP04021,Suresh T,Mumbai,Scooter,Full-time,4.09,Y
 DP06781,Vikas T,Chennai,Scooter,Full-time,4.19,Y
-DP14376,Nikhil S,Delhi,Bike,Contract,4.0,Y
+DP14376,Nikhil S,Delhi,Bike,Contract,4,Y
 DP05320,Deepak X,Bengaluru,Bike,Full-time,4.38,Y
 DP04429,Amit B,Hyderabad,Bike,Part-time,4.24,Y
 DP03081,Manoj E,Kolkata,Scooter,Full-time,4.53,N
@@ -4763,7 +4763,7 @@ DP03424,Rahul G,Chennai,Bike,Full-time,4.22,Y
 DP09498,Nikhil I,Delhi,Car,Full-time,3.98,N
 DP06854,Kiran J,Hyderabad,Bike,Full-time,4.15,N
 DP14310,Santosh H,Mumbai,Scooter,Part-time,4.67,N
-DP02262,Amit O,Bengaluru,Scooter,Part-time,4.0,Y
+DP02262,Amit O,Bengaluru,Scooter,Part-time,4,Y
 DP00687,Divya T,Bengaluru,Scooter,Part-time,4.16,Y
 DP08562,Priya A,Pune,Scooter,Full-time,3.92,Y
 DP13352,Ravi D,Hyderabad,Cycle,Part-time,4.36,Y
@@ -4865,7 +4865,7 @@ DP12625,Deepak Z,Ahmedabad,Cycle,Part-time,4.43,Y
 DP09210,Vikas A,Chennai,Cycle,Contract,4.2,Y
 DP13079,Manoj E,Kolkata,Scooter,Full-time,4.29,Y
 DP10820,Suresh Q,Bengaluru,Scooter,Full-time,4.41,Y
-DP09062,Rahul V,Mumbai,Scooter,Part-time,4.0,Y
+DP09062,Rahul V,Mumbai,Scooter,Part-time,4,Y
 DP01443,Arjun I,Kolkata,Bike,Full-time,4.2,Y
 DP10521,Sneha K,Pune,Cycle,Full-time,3.97,Y
 DP08454,Pooja B,Bengaluru,Scooter,Part-time,4.24,Y
@@ -5008,11 +5008,11 @@ DP08866,Divya T,Delhi,Cycle,Contract,4.63,Y
 DP11452,Vikas P,Mumbai,Bike,Full-time,3.87,Y
 DP10502,Deepak W,Ahmedabad,Bike,Full-time,4.23,Y
 DP03993,Neha I,Bengaluru,Cycle,Full-time,3.69,Y
-DP13315,Suresh R,Ahmedabad,Bike,Full-time,4.0,Y
+DP13315,Suresh R,Ahmedabad,Bike,Full-time,4,Y
 DP03700,Ravi E,Bengaluru,Cycle,Contract,4.35,Y
 DP14555,Priya Q,Chennai,Bike,Full-time,4.58,Y
 DP12744,Shreya R,Bengaluru,Bike,Full-time,3.72,Y
-DP11474,Ravi A,Bengaluru,Bike,Part-time,4.0,Y
+DP11474,Ravi A,Bengaluru,Bike,Part-time,4,Y
 DP13264,Deepak U,Mumbai,Scooter,Full-time,4.6,Y
 DP01553,Neha H,Bengaluru,Bike,Part-time,4.29,Y
 DP07015,Ravi F,Bengaluru,Cycle,Full-time,4.42,Y
@@ -5095,7 +5095,7 @@ DP01549,Priya E,Pune,Scooter,Full-time,4.12,Y
 DP06601,Suresh Y,Delhi,Cycle,Full-time,3.9,Y
 DP04823,Rakesh Z,Hyderabad,Scooter,Part-time,4.16,Y
 DP01817,Manoj W,Kolkata,Bike,Full-time,4.14,Y
-DP14745,Amit A,Kolkata,Bike,Part-time,4.0,Y
+DP14745,Amit A,Kolkata,Bike,Part-time,4,Y
 DP00103,Priya Q,Hyderabad,Bike,Part-time,4.99,Y
 DP11793,Manoj J,Delhi,Cycle,Full-time,3.91,Y
 DP07618,Pooja T,Delhi,Scooter,Part-time,4.25,Y
@@ -5174,7 +5174,7 @@ DP04678,Ravi O,Bengaluru,Cycle,Full-time,4.59,Y
 DP06157,Deepak F,Mumbai,Bike,Contract,4.51,Y
 DP13024,Arjun M,Bengaluru,Scooter,Full-time,3.99,Y
 DP12567,Deepak G,Mumbai,Scooter,Part-time,4.42,Y
-DP04025,Priya J,Bengaluru,Scooter,Full-time,4.0,Y
+DP04025,Priya J,Bengaluru,Scooter,Full-time,4,Y
 DP03145,Shreya K,Bengaluru,Scooter,Part-time,4.36,N
 DP09760,Neha Q,Ahmedabad,Scooter,Part-time,3.88,Y
 DP13304,Rakesh X,Kolkata,Scooter,Part-time,4.56,N
@@ -5233,7 +5233,7 @@ DP13728,Manoj B,Kolkata,Scooter,Contract,3.71,Y
 DP04470,Meena U,Kolkata,Scooter,Full-time,4.35,Y
 DP08910,Vikas S,Ahmedabad,Car,Full-time,4.38,Y
 DP10522,Priya W,Chennai,Cycle,Full-time,4.39,Y
-DP04695,Santosh O,Chennai,Car,Contract,5.0,N
+DP04695,Santosh O,Chennai,Car,Contract,5,N
 DP04219,Arjun O,Delhi,Scooter,Part-time,3.95,Y
 DP04620,Pooja U,Bengaluru,Scooter,Full-time,4.14,Y
 DP02135,Rakesh F,Mumbai,Scooter,Full-time,4.42,Y
@@ -5316,8 +5316,8 @@ DP03618,Santosh H,Delhi,Bike,Part-time,4.14,N
 DP08133,Kiran K,Hyderabad,Cycle,Full-time,4.29,Y
 DP12858,Shreya F,Mumbai,Bike,Full-time,3.81,Y
 DP12123,Santosh C,Bengaluru,Scooter,Contract,4.11,Y
-DP03228,Nikhil G,Bengaluru,Bike,Full-time,4.0,Y
-DP05499,Nikhil T,Bengaluru,Scooter,Part-time,4.0,Y
+DP03228,Nikhil G,Bengaluru,Bike,Full-time,4,Y
+DP05499,Nikhil T,Bengaluru,Scooter,Part-time,4,Y
 DP08081,Neha R,Mumbai,Scooter,Full-time,4.4,Y
 DP05684,Neha J,Pune,Bike,Full-time,3.72,N
 DP14973,Sneha Y,Ahmedabad,Scooter,Full-time,4.26,Y
@@ -5425,7 +5425,7 @@ DP06969,Kiran Y,Kolkata,Scooter,Part-time,4.04,Y
 DP12348,Kiran U,Bengaluru,Scooter,Contract,4.39,Y
 DP02928,Divya J,Kolkata,Cycle,Part-time,3.79,Y
 DP04184,Amit O,Delhi,Cycle,Full-time,4.04,Y
-DP08449,Santosh U,Delhi,Scooter,Full-time,4.0,N
+DP08449,Santosh U,Delhi,Scooter,Full-time,4,N
 DP13621,Vikas N,Hyderabad,Bike,Contract,4.09,Y
 DP01914,Meena X,Pune,Bike,Full-time,3.73,Y
 DP04149,Divya G,Delhi,Bike,Contract,4.14,Y
@@ -5602,8 +5602,8 @@ DP04854,Suresh U,Delhi,Scooter,Full-time,4.07,Y
 DP01581,Santosh H,Bengaluru,Bike,Part-time,4.26,Y
 DP04273,Nikhil H,Pune,Scooter,Full-time,4.13,Y
 DP03630,Deepak T,Pune,Bike,Contract,4.49,Y
-DP12136,Sneha M,Hyderabad,Cycle,Full-time,5.0,Y
-DP13901,Rahul W,Kolkata,Car,Contract,5.0,Y
+DP12136,Sneha M,Hyderabad,Cycle,Full-time,5,Y
+DP13901,Rahul W,Kolkata,Car,Contract,5,Y
 DP00661,Santosh C,Mumbai,Scooter,Contract,4.34,Y
 DP03694,Nikhil N,Mumbai,Cycle,Full-time,4.12,Y
 DP10260,Nikhil L,Mumbai,Bike,Part-time,4.16,Y
@@ -5619,7 +5619,7 @@ DP06679,Deepak N,Chennai,Scooter,Full-time,4.89,Y
 DP04006,Amit T,Bengaluru,Cycle,Contract,3.92,Y
 DP04712,Rahul M,Kolkata,Scooter,Full-time,4.18,Y
 DP07484,Suresh J,Mumbai,Scooter,Full-time,4.61,Y
-DP01904,Pooja Q,Kolkata,Bike,Part-time,4.0,Y
+DP01904,Pooja Q,Kolkata,Bike,Part-time,4,Y
 DP05007,Rakesh D,Kolkata,Scooter,Part-time,4.22,Y
 DP07412,Manoj D,Bengaluru,Bike,Full-time,4.14,N
 DP12255,Deepak W,Delhi,Bike,Full-time,4.39,Y
@@ -5680,7 +5680,7 @@ DP07790,Rahul Y,Chennai,Bike,Full-time,4.13,Y
 DP13760,Arjun S,Kolkata,Scooter,Full-time,4.39,Y
 DP08799,Divya O,Mumbai,Cycle,Part-time,3.57,Y
 DP01582,Kiran D,Pune,Bike,Contract,4.59,N
-DP01514,Deepak F,Kolkata,Bike,Full-time,4.0,N
+DP01514,Deepak F,Kolkata,Bike,Full-time,4,N
 DP11319,Amit W,Chennai,Cycle,Part-time,4.02,Y
 DP05980,Ravi L,Ahmedabad,Scooter,Part-time,4.39,Y
 DP05837,Shreya S,Kolkata,Scooter,Part-time,4.34,Y
@@ -5706,14 +5706,14 @@ DP01983,Neha R,Bengaluru,Scooter,Part-time,4.01,Y
 DP06929,Deepak J,Bengaluru,Scooter,Full-time,4.21,N
 DP01289,Amit A,Delhi,Scooter,Full-time,4.54,Y
 DP11693,Neha T,Delhi,Cycle,Contract,4.01,Y
-DP12460,Priya B,Bengaluru,Bike,Part-time,4.0,Y
+DP12460,Priya B,Bengaluru,Bike,Part-time,4,Y
 DP03399,Meena R,Delhi,Bike,Full-time,3.81,N
 DP09128,Ravi L,Bengaluru,Scooter,Part-time,4.36,Y
 DP12507,Meena Y,Hyderabad,Scooter,Full-time,4.26,Y
 DP03610,Arjun B,Delhi,Scooter,Contract,4.46,N
 DP09685,Rakesh H,Pune,Scooter,Full-time,3.73,Y
 DP12962,Meena M,Pune,Cycle,Part-time,4.79,Y
-DP13982,Neha L,Delhi,Scooter,Full-time,4.0,Y
+DP13982,Neha L,Delhi,Scooter,Full-time,4,Y
 DP06911,Rahul T,Mumbai,Bike,Full-time,4.52,Y
 DP02977,Santosh Z,Kolkata,Scooter,Full-time,4.22,Y
 DP12547,Rakesh N,Mumbai,Car,Part-time,4.17,Y
@@ -5843,7 +5843,7 @@ DP09156,Neha O,Pune,Bike,Contract,4.51,Y
 DP08334,Amit F,Mumbai,Cycle,Part-time,4.22,Y
 DP01687,Suresh G,Bengaluru,Scooter,Full-time,3.94,Y
 DP12709,Manoj F,Delhi,Bike,Part-time,4.83,Y
-DP14160,Pooja Y,Hyderabad,Bike,Part-time,4.0,Y
+DP14160,Pooja Y,Hyderabad,Bike,Part-time,4,Y
 DP02807,Neha M,Mumbai,Scooter,Full-time,4.85,Y
 DP13394,Santosh T,Kolkata,Bike,Full-time,4.22,Y
 DP12122,Pooja S,Hyderabad,Bike,Full-time,4.26,Y
@@ -5851,7 +5851,7 @@ DP07616,Kiran T,Chennai,Cycle,Full-time,4.69,Y
 DP03334,Meena F,Chennai,Cycle,Full-time,4.35,Y
 DP12572,Ravi O,Kolkata,Scooter,Full-time,4.09,Y
 DP14784,Ravi X,Kolkata,Car,Contract,4.37,N
-DP12733,Divya T,Delhi,Bike,Part-time,5.0,Y
+DP12733,Divya T,Delhi,Bike,Part-time,5,Y
 DP00936,Divya D,Hyderabad,Scooter,Full-time,4.18,Y
 DP08139,Pooja R,Bengaluru,Scooter,Contract,3.93,Y
 DP14275,Pooja A,Chennai,Bike,Part-time,4.65,Y
@@ -5871,7 +5871,7 @@ DP10607,Kiran F,Chennai,Bike,Full-time,4.16,Y
 DP00108,Rahul I,Chennai,Bike,Part-time,4.19,Y
 DP04439,Santosh F,Mumbai,Scooter,Full-time,3.98,Y
 DP01987,Neha P,Bengaluru,Cycle,Full-time,4.47,Y
-DP05038,Priya O,Mumbai,Bike,Contract,5.0,Y
+DP05038,Priya O,Mumbai,Bike,Contract,5,Y
 DP03049,Ravi P,Delhi,Bike,Part-time,4.22,Y
 DP08129,Suresh K,Bengaluru,Scooter,Full-time,3.85,Y
 DP13433,Ravi V,Pune,Scooter,Full-time,4.11,Y
@@ -5884,7 +5884,7 @@ DP04124,Shreya H,Ahmedabad,Cycle,Contract,4.23,Y
 DP11363,Pooja T,Delhi,Bike,Full-time,4.63,Y
 DP04807,Santosh U,Kolkata,Cycle,Part-time,3.76,Y
 DP05066,Ananya Y,Delhi,Cycle,Contract,4.21,Y
-DP03812,Amit M,Chennai,Bike,Full-time,4.0,Y
+DP03812,Amit M,Chennai,Bike,Full-time,4,Y
 DP07174,Arjun T,Mumbai,Cycle,Full-time,4.28,Y
 DP09763,Divya J,Bengaluru,Car,Full-time,4.36,Y
 DP01993,Vikas V,Ahmedabad,Scooter,Full-time,4.44,Y
@@ -5967,7 +5967,7 @@ DP13473,Kiran Z,Bengaluru,Bike,Part-time,4.41,Y
 DP06749,Shreya I,Delhi,Scooter,Full-time,4.51,Y
 DP05026,Suresh A,Ahmedabad,Bike,Full-time,3.68,Y
 DP00368,Ananya V,Hyderabad,Bike,Part-time,3.71,Y
-DP07639,Priya J,Delhi,Scooter,Part-time,4.0,Y
+DP07639,Priya J,Delhi,Scooter,Part-time,4,Y
 DP12488,Ravi M,Hyderabad,Bike,Contract,4.52,Y
 DP11734,Meena V,Mumbai,Bike,Full-time,4.59,Y
 DP06302,Deepak I,Mumbai,Cycle,Full-time,4.22,N
@@ -6087,7 +6087,7 @@ DP06005,Neha F,Mumbai,Bike,Full-time,3.69,N
 DP11079,Amit W,Hyderabad,Scooter,Full-time,4.6,Y
 DP00073,Nikhil J,Kolkata,Bike,Part-time,4.36,Y
 DP11122,Vikas U,Ahmedabad,Car,Full-time,4.4,Y
-DP02452,Divya G,Chennai,Bike,Full-time,5.0,Y
+DP02452,Divya G,Chennai,Bike,Full-time,5,Y
 DP02968,Meena X,Hyderabad,Bike,Full-time,4.25,Y
 DP12264,Amit F,Bengaluru,Scooter,Part-time,4.12,Y
 DP13475,Kiran C,Delhi,Bike,Part-time,4.53,Y
@@ -6122,7 +6122,7 @@ DP03275,Sneha R,Hyderabad,Car,Contract,4.08,Y
 DP02595,Arjun O,Bengaluru,Bike,Part-time,4.38,N
 DP01279,Ravi E,Bengaluru,Cycle,Part-time,4.32,Y
 DP14070,Priya H,Chennai,Scooter,Full-time,4.2,Y
-DP12699,Ravi L,Ahmedabad,Bike,Part-time,4.0,Y
+DP12699,Ravi L,Ahmedabad,Bike,Part-time,4,Y
 DP00591,Nikhil F,Kolkata,Cycle,Full-time,3.55,N
 DP14385,Ananya X,Pune,Scooter,Full-time,4.13,N
 DP11839,Shreya B,Chennai,Cycle,Full-time,4.5,Y
@@ -6252,7 +6252,7 @@ DP01676,Vikas S,Ahmedabad,Bike,Part-time,4.39,Y
 DP03042,Kiran F,Bengaluru,Scooter,Full-time,3.48,Y
 DP09110,Nikhil I,Chennai,Scooter,Part-time,3.88,Y
 DP06816,Santosh D,Bengaluru,Scooter,Full-time,3.85,Y
-DP10488,Neha O,Pune,Scooter,Contract,5.0,Y
+DP10488,Neha O,Pune,Scooter,Contract,5,Y
 DP14633,Arjun B,Kolkata,Scooter,Full-time,4.22,Y
 DP07407,Amit P,Delhi,Scooter,Part-time,3.89,Y
 DP10253,Pooja M,Chennai,Bike,Part-time,3.87,Y
@@ -6313,7 +6313,7 @@ DP04185,Amit L,Pune,Scooter,Full-time,4.05,Y
 DP10889,Santosh I,Mumbai,Cycle,Contract,3.77,Y
 DP11724,Sneha E,Pune,Scooter,Full-time,4.43,Y
 DP06255,Meena G,Delhi,Bike,Full-time,3.96,Y
-DP08772,Neha W,Mumbai,Car,Contract,5.0,N
+DP08772,Neha W,Mumbai,Car,Contract,5,N
 DP05747,Vikas G,Mumbai,Scooter,Full-time,4.65,Y
 DP06328,Deepak F,Hyderabad,Scooter,Full-time,4.31,Y
 DP14223,Vikas T,Hyderabad,Bike,Full-time,4.4,Y
@@ -6407,7 +6407,7 @@ DP11301,Arjun X,Delhi,Bike,Part-time,4.55,Y
 DP08294,Priya S,Delhi,Scooter,Full-time,4.33,N
 DP06518,Meena C,Bengaluru,Bike,Full-time,4.04,Y
 DP09499,Priya Z,Hyderabad,Cycle,Part-time,4.1,Y
-DP08965,Suresh G,Hyderabad,Cycle,Part-time,5.0,Y
+DP08965,Suresh G,Hyderabad,Cycle,Part-time,5,Y
 DP06196,Neha Z,Kolkata,Bike,Part-time,4.48,Y
 DP09655,Priya P,Chennai,Scooter,Contract,4.19,Y
 DP14932,Pooja Z,Mumbai,Bike,Part-time,4.04,Y
@@ -6434,7 +6434,7 @@ DP02041,Arjun X,Chennai,Scooter,Full-time,3.9,Y
 DP08189,Priya E,Mumbai,Scooter,Part-time,4.09,Y
 DP02026,Rahul M,Hyderabad,Scooter,Contract,4.48,N
 DP06867,Suresh O,Mumbai,Scooter,Full-time,4.66,Y
-DP09910,Arjun O,Chennai,Scooter,Full-time,4.0,Y
+DP09910,Arjun O,Chennai,Scooter,Full-time,4,Y
 DP02502,Pooja W,Chennai,Bike,Contract,3.85,Y
 DP07353,Neha A,Mumbai,Bike,Full-time,3.76,Y
 DP05832,Deepak G,Delhi,Scooter,Contract,3.71,Y
@@ -6566,7 +6566,7 @@ DP09519,Amit D,Mumbai,Scooter,Full-time,4.12,Y
 DP07997,Ravi F,Bengaluru,Scooter,Full-time,4.13,Y
 DP05560,Kiran L,Kolkata,Scooter,Part-time,4.5,N
 DP03981,Rakesh Y,Chennai,Bike,Part-time,4.62,Y
-DP00091,Amit B,Bengaluru,Bike,Contract,4.0,Y
+DP00091,Amit B,Bengaluru,Bike,Contract,4,Y
 DP11390,Pooja Z,Hyderabad,Bike,Full-time,3.96,Y
 DP10020,Priya P,Ahmedabad,Bike,Full-time,4.8,Y
 DP10299,Amit A,Kolkata,Bike,Full-time,4.11,Y
@@ -6584,7 +6584,7 @@ DP06208,Divya Q,Delhi,Bike,Full-time,3.97,Y
 DP04461,Santosh B,Kolkata,Scooter,Full-time,3.84,Y
 DP07605,Santosh O,Delhi,Bike,Full-time,3.85,Y
 DP06764,Ananya F,Bengaluru,Car,Full-time,4.62,Y
-DP03083,Sneha R,Bengaluru,Bike,Part-time,4.0,Y
+DP03083,Sneha R,Bengaluru,Bike,Part-time,4,Y
 DP05633,Deepak B,Hyderabad,Cycle,Full-time,4.71,Y
 DP02316,Vikas Y,Ahmedabad,Scooter,Full-time,4.91,Y
 DP10124,Pooja P,Pune,Bike,Part-time,4.73,Y
@@ -6649,7 +6649,7 @@ DP00190,Divya X,Kolkata,Scooter,Full-time,3.81,N
 DP10994,Ananya R,Kolkata,Scooter,Full-time,4.18,Y
 DP04606,Vikas D,Hyderabad,Scooter,Contract,4.16,Y
 DP09118,Suresh B,Hyderabad,Scooter,Part-time,3.65,N
-DP08746,Nikhil D,Ahmedabad,Cycle,Part-time,4.0,Y
+DP08746,Nikhil D,Ahmedabad,Cycle,Part-time,4,Y
 DP08634,Suresh Y,Bengaluru,Scooter,Full-time,3.99,Y
 DP08622,Rakesh M,Mumbai,Bike,Part-time,4.36,Y
 DP00925,Manoj J,Ahmedabad,Bike,Part-time,3.72,Y
@@ -6735,7 +6735,7 @@ DP06352,Neha V,Bengaluru,Cycle,Full-time,4.02,Y
 DP13273,Sneha L,Delhi,Bike,Full-time,3.43,Y
 DP13766,Priya G,Delhi,Bike,Part-time,4.36,Y
 DP08090,Manoj Y,Bengaluru,Bike,Part-time,4.2,Y
-DP14502,Vikas D,Delhi,Scooter,Full-time,4.0,Y
+DP14502,Vikas D,Delhi,Scooter,Full-time,4,Y
 DP04669,Arjun S,Mumbai,Scooter,Contract,4.17,Y
 DP14398,Suresh C,Delhi,Bike,Part-time,4.58,N
 DP04175,Pooja P,Bengaluru,Bike,Part-time,4.61,Y
@@ -6866,12 +6866,12 @@ DP07682,Rahul G,Kolkata,Bike,Contract,4.15,Y
 DP14610,Ananya A,Chennai,Bike,Part-time,3.28,Y
 DP14055,Kiran R,Mumbai,Car,Part-time,4.08,Y
 DP04078,Kiran I,Delhi,Scooter,Part-time,4.54,Y
-DP03422,Ravi X,Bengaluru,Bike,Full-time,4.0,N
+DP03422,Ravi X,Bengaluru,Bike,Full-time,4,N
 DP10666,Rahul C,Chennai,Bike,Part-time,4.13,Y
 DP01400,Rakesh N,Hyderabad,Bike,Full-time,4.28,Y
 DP08797,Vikas S,Delhi,Scooter,Full-time,4.44,Y
 DP03465,Amit N,Bengaluru,Bike,Full-time,4.26,Y
-DP04332,Nikhil N,Mumbai,Bike,Part-time,5.0,Y
+DP04332,Nikhil N,Mumbai,Bike,Part-time,5,Y
 DP10550,Vikas T,Delhi,Bike,Contract,4.25,Y
 DP09657,Priya L,Bengaluru,Bike,Contract,4.6,Y
 DP13851,Rakesh L,Chennai,Cycle,Full-time,3.99,Y
@@ -7142,7 +7142,7 @@ DP12183,Pooja R,Bengaluru,Bike,Part-time,4.17,Y
 DP04060,Pooja X,Mumbai,Bike,Part-time,4.19,Y
 DP03053,Suresh R,Kolkata,Scooter,Part-time,3.77,Y
 DP01311,Kiran C,Mumbai,Cycle,Part-time,4.42,Y
-DP05867,Rahul L,Chennai,Cycle,Full-time,4.0,Y
+DP05867,Rahul L,Chennai,Cycle,Full-time,4,Y
 DP14795,Pooja M,Bengaluru,Bike,Part-time,4.56,Y
 DP06276,Ravi O,Bengaluru,Bike,Full-time,4.44,Y
 DP09157,Meena L,Ahmedabad,Scooter,Full-time,4.95,Y
@@ -7307,7 +7307,7 @@ DP04036,Divya R,Bengaluru,Scooter,Contract,3.53,Y
 DP05063,Suresh U,Mumbai,Bike,Full-time,4.25,Y
 DP14221,Ananya G,Mumbai,Bike,Full-time,3.73,Y
 DP06503,Vikas H,Bengaluru,Scooter,Full-time,4.22,Y
-DP02039,Arjun P,Hyderabad,Scooter,Contract,4.0,Y
+DP02039,Arjun P,Hyderabad,Scooter,Contract,4,Y
 DP08815,Manoj J,Chennai,Bike,Full-time,4.7,Y
 DP03718,Suresh F,Hyderabad,Scooter,Full-time,4.27,Y
 DP04331,Rahul Z,Bengaluru,Scooter,Part-time,4.68,Y
@@ -7523,7 +7523,7 @@ DP01100,Divya V,Kolkata,Bike,Full-time,4.61,Y
 DP05061,Pooja G,Pune,Car,Part-time,4.25,Y
 DP01487,Pooja M,Hyderabad,Scooter,Part-time,4.41,Y
 DP12698,Kiran L,Ahmedabad,Scooter,Part-time,4.35,Y
-DP04554,Nikhil J,Delhi,Cycle,Full-time,4.0,Y
+DP04554,Nikhil J,Delhi,Cycle,Full-time,4,Y
 DP10929,Manoj T,Delhi,Bike,Full-time,4.3,Y
 DP11989,Manoj C,Pune,Scooter,Full-time,4.98,Y
 DP12584,Amit F,Ahmedabad,Scooter,Part-time,4.51,Y
@@ -7539,7 +7539,7 @@ DP08593,Santosh D,Hyderabad,Bike,Full-time,3.83,Y
 DP08270,Rakesh L,Bengaluru,Bike,Contract,3.8,Y
 DP05663,Priya W,Mumbai,Scooter,Contract,4.12,Y
 DP13491,Santosh F,Pune,Scooter,Contract,4.2,Y
-DP02140,Vikas J,Pune,Bike,Contract,5.0,Y
+DP02140,Vikas J,Pune,Bike,Contract,5,Y
 DP10100,Rakesh S,Bengaluru,Scooter,Part-time,4.3,Y
 DP07171,Neha J,Kolkata,Scooter,Full-time,4.21,Y
 DP07219,Ananya V,Bengaluru,Bike,Full-time,4.21,Y
@@ -7600,7 +7600,7 @@ DP00750,Rahul A,Chennai,Bike,Full-time,4.45,N
 DP03315,Deepak A,Delhi,Bike,Contract,3.62,Y
 DP05505,Ravi F,Hyderabad,Scooter,Part-time,3.93,Y
 DP08740,Rahul B,Hyderabad,Cycle,Part-time,4.63,Y
-DP07309,Deepak M,Bengaluru,Scooter,Full-time,5.0,Y
+DP07309,Deepak M,Bengaluru,Scooter,Full-time,5,Y
 DP14374,Rahul D,Mumbai,Scooter,Full-time,4.15,Y
 DP02223,Pooja G,Kolkata,Scooter,Full-time,4.11,Y
 DP10572,Ananya T,Ahmedabad,Scooter,Full-time,4.04,Y
@@ -7644,7 +7644,7 @@ DP12001,Divya N,Pune,Bike,Contract,3.84,Y
 DP05297,Neha C,Chennai,Cycle,Full-time,4.29,Y
 DP03476,Deepak H,Kolkata,Bike,Full-time,4.42,Y
 DP00709,Neha J,Delhi,Scooter,Part-time,4.68,Y
-DP09101,Priya C,Delhi,Bike,Part-time,4.0,Y
+DP09101,Priya C,Delhi,Bike,Part-time,4,Y
 DP04946,Divya G,Pune,Scooter,Full-time,4.57,Y
 DP11529,Kiran H,Ahmedabad,Cycle,Part-time,3.8,Y
 DP14360,Vikas C,Mumbai,Cycle,Part-time,4.44,N
@@ -7663,7 +7663,7 @@ DP14624,Arjun R,Hyderabad,Scooter,Full-time,4.29,Y
 DP12103,Priya L,Mumbai,Cycle,Contract,4.53,Y
 DP05966,Vikas Q,Mumbai,Scooter,Full-time,4.31,N
 DP01846,Santosh U,Bengaluru,Car,Contract,3.76,Y
-DP02782,Pooja W,Delhi,Scooter,Full-time,4.0,Y
+DP02782,Pooja W,Delhi,Scooter,Full-time,4,Y
 DP13765,Priya B,Ahmedabad,Bike,Full-time,4.28,Y
 DP03375,Arjun W,Hyderabad,Scooter,Contract,4.43,Y
 DP09743,Divya K,Pune,Scooter,Part-time,3.93,Y
@@ -7687,7 +7687,7 @@ DP08117,Divya R,Mumbai,Bike,Full-time,4.11,Y
 DP04318,Nikhil A,Ahmedabad,Scooter,Full-time,4.19,Y
 DP14798,Shreya B,Mumbai,Scooter,Contract,3.42,N
 DP00326,Rakesh J,Bengaluru,Bike,Part-time,4.27,Y
-DP03678,Priya J,Bengaluru,Scooter,Full-time,4.0,Y
+DP03678,Priya J,Bengaluru,Scooter,Full-time,4,Y
 DP14936,Pooja Q,Bengaluru,Cycle,Part-time,4.38,Y
 DP12848,Arjun M,Bengaluru,Bike,Part-time,4.19,Y
 DP03568,Nikhil Z,Mumbai,Cycle,Part-time,4.24,Y
@@ -7918,7 +7918,7 @@ DP03459,Neha Y,Mumbai,Bike,Contract,4.28,N
 DP05238,Vikas M,Bengaluru,Bike,Full-time,4.6,Y
 DP01797,Rakesh W,Chennai,Bike,Full-time,4.74,N
 DP06744,Manoj Y,Hyderabad,Bike,Full-time,4.42,Y
-DP04838,Priya S,Bengaluru,Bike,Contract,5.0,Y
+DP04838,Priya S,Bengaluru,Bike,Contract,5,Y
 DP08527,Priya P,Ahmedabad,Scooter,Contract,4.61,Y
 DP05048,Meena M,Hyderabad,Car,Full-time,4.65,Y
 DP02797,Suresh N,Ahmedabad,Bike,Full-time,4.89,Y
@@ -7965,7 +7965,7 @@ DP07719,Suresh U,Mumbai,Scooter,Part-time,3.93,N
 DP10205,Divya S,Mumbai,Scooter,Full-time,4.36,N
 DP09711,Neha W,Mumbai,Scooter,Part-time,4.63,Y
 DP04426,Rahul M,Bengaluru,Scooter,Contract,4.04,N
-DP03048,Arjun A,Mumbai,Scooter,Full-time,4.0,Y
+DP03048,Arjun A,Mumbai,Scooter,Full-time,4,Y
 DP01654,Meena L,Hyderabad,Bike,Part-time,4.2,Y
 DP05434,Santosh G,Mumbai,Bike,Full-time,3.72,N
 DP13453,Priya I,Kolkata,Bike,Part-time,3.75,Y
@@ -8016,7 +8016,7 @@ DP05506,Rakesh G,Kolkata,Cycle,Full-time,4.31,N
 DP08596,Neha B,Pune,Scooter,Part-time,4.23,Y
 DP06594,Priya O,Bengaluru,Scooter,Full-time,4.15,Y
 DP03454,Amit H,Hyderabad,Bike,Full-time,3.91,N
-DP14950,Pooja U,Mumbai,Bike,Full-time,4.0,Y
+DP14950,Pooja U,Mumbai,Bike,Full-time,4,Y
 DP04268,Manoj B,Kolkata,Bike,Full-time,3.99,Y
 DP12565,Ananya Y,Ahmedabad,Scooter,Part-time,4.39,Y
 DP08719,Suresh P,Mumbai,Bike,Part-time,3.88,N
@@ -8140,7 +8140,7 @@ DP08947,Divya S,Ahmedabad,Bike,Part-time,4.19,Y
 DP06860,Shreya X,Hyderabad,Scooter,Full-time,4.38,N
 DP00335,Pooja F,Hyderabad,Scooter,Full-time,4.6,Y
 DP06538,Nikhil F,Pune,Scooter,Part-time,4.09,Y
-DP14813,Amit I,Bengaluru,Scooter,Full-time,4.0,Y
+DP14813,Amit I,Bengaluru,Scooter,Full-time,4,Y
 DP09071,Priya B,Chennai,Scooter,Full-time,4.36,Y
 DP10007,Rahul S,Bengaluru,Bike,Full-time,4.06,Y
 DP08244,Neha Q,Chennai,Bike,Contract,4.66,Y
@@ -8208,7 +8208,7 @@ DP09060,Sneha P,Ahmedabad,Scooter,Contract,4.01,Y
 DP09331,Nikhil R,Delhi,Scooter,Part-time,4.24,Y
 DP05635,Rahul M,Mumbai,Scooter,Full-time,4.26,Y
 DP06409,Deepak B,Chennai,Bike,Full-time,4.16,Y
-DP12522,Rakesh S,Bengaluru,Cycle,Part-time,5.0,Y
+DP12522,Rakesh S,Bengaluru,Cycle,Part-time,5,Y
 DP10570,Neha K,Ahmedabad,Cycle,Part-time,4.22,Y
 DP08855,Arjun E,Ahmedabad,Scooter,Contract,3.95,Y
 DP12361,Nikhil F,Bengaluru,Scooter,Contract,4.02,N
@@ -8281,7 +8281,7 @@ DP13292,Divya A,Ahmedabad,Scooter,Part-time,4.26,Y
 DP07150,Sneha G,Delhi,Scooter,Contract,4.81,Y
 DP04317,Divya G,Bengaluru,Scooter,Full-time,3.99,Y
 DP11714,Divya Y,Bengaluru,Scooter,Part-time,4.21,Y
-DP14606,Amit V,Bengaluru,Scooter,Part-time,4.0,Y
+DP14606,Amit V,Bengaluru,Scooter,Part-time,4,Y
 DP00503,Pooja C,Bengaluru,Bike,Full-time,4.01,Y
 DP10278,Ananya K,Mumbai,Scooter,Part-time,4.35,N
 DP12976,Deepak F,Mumbai,Car,Part-time,4.8,Y
@@ -8391,7 +8391,7 @@ DP10695,Pooja K,Mumbai,Scooter,Full-time,4.07,Y
 DP00754,Meena Y,Ahmedabad,Scooter,Full-time,4.21,Y
 DP02015,Deepak S,Chennai,Bike,Full-time,4.37,Y
 DP08341,Ananya P,Delhi,Scooter,Contract,4.17,Y
-DP06499,Priya T,Delhi,Bike,Part-time,4.0,Y
+DP06499,Priya T,Delhi,Bike,Part-time,4,Y
 DP11467,Divya V,Bengaluru,Bike,Full-time,4.31,Y
 DP07026,Amit I,Bengaluru,Scooter,Contract,4.34,Y
 DP14367,Deepak R,Delhi,Cycle,Full-time,4.4,N
@@ -8442,7 +8442,7 @@ DP08177,Kiran L,Delhi,Scooter,Part-time,4.4,Y
 DP13282,Sneha X,Hyderabad,Cycle,Part-time,3.93,Y
 DP05748,Ravi T,Mumbai,Scooter,Part-time,4.42,Y
 DP07700,Ananya X,Bengaluru,Cycle,Full-time,4.56,Y
-DP13796,Neha I,Chennai,Bike,Contract,4.0,Y
+DP13796,Neha I,Chennai,Bike,Contract,4,Y
 DP12436,Manoj F,Bengaluru,Scooter,Part-time,4.49,Y
 DP06037,Nikhil O,Delhi,Bike,Part-time,3.86,Y
 DP06689,Suresh W,Chennai,Scooter,Full-time,3.99,Y
@@ -8521,7 +8521,7 @@ DP05354,Priya T,Bengaluru,Bike,Full-time,4.68,Y
 DP09408,Pooja B,Mumbai,Car,Part-time,4.57,Y
 DP01274,Manoj H,Delhi,Scooter,Part-time,4.17,Y
 DP14972,Sneha G,Bengaluru,Scooter,Part-time,4.17,N
-DP02396,Sneha H,Chennai,Scooter,Full-time,4.0,Y
+DP02396,Sneha H,Chennai,Scooter,Full-time,4,Y
 DP08289,Nikhil A,Hyderabad,Car,Full-time,4.36,Y
 DP10699,Shreya N,Bengaluru,Scooter,Full-time,3.56,Y
 DP06024,Priya R,Kolkata,Bike,Full-time,4.22,Y
@@ -8668,7 +8668,7 @@ DP14647,Neha Z,Kolkata,Bike,Contract,4.58,Y
 DP06378,Meena S,Kolkata,Car,Part-time,3.68,Y
 DP06452,Arjun B,Chennai,Scooter,Full-time,4.46,Y
 DP03322,Vikas A,Chennai,Scooter,Part-time,3.83,Y
-DP01701,Manoj O,Pune,Scooter,Full-time,5.0,N
+DP01701,Manoj O,Pune,Scooter,Full-time,5,N
 DP12641,Deepak C,Bengaluru,Scooter,Full-time,4.28,Y
 DP07625,Santosh Z,Mumbai,Scooter,Full-time,4.22,Y
 DP02698,Neha N,Mumbai,Scooter,Part-time,3.99,Y
@@ -8681,12 +8681,12 @@ DP09901,Shreya U,Chennai,Scooter,Full-time,3.88,Y
 DP12440,Ananya S,Ahmedabad,Cycle,Part-time,4.44,Y
 DP03352,Arjun O,Bengaluru,Scooter,Part-time,4.61,Y
 DP10616,Pooja U,Bengaluru,Scooter,Full-time,4.16,Y
-DP01019,Rakesh E,Mumbai,Bike,Part-time,4.0,Y
+DP01019,Rakesh E,Mumbai,Bike,Part-time,4,Y
 DP09365,Divya X,Bengaluru,Scooter,Full-time,4.57,Y
 DP13105,Priya K,Delhi,Bike,Full-time,3.82,Y
 DP13673,Kiran M,Hyderabad,Cycle,Part-time,3.62,Y
 DP05762,Nikhil S,Ahmedabad,Scooter,Contract,4.5,Y
-DP06934,Meena W,Chennai,Car,Full-time,4.0,Y
+DP06934,Meena W,Chennai,Car,Full-time,4,Y
 DP07117,Ananya R,Chennai,Cycle,Full-time,4.75,Y
 DP07179,Neha K,Mumbai,Scooter,Part-time,4.59,Y
 DP02051,Priya X,Delhi,Bike,Part-time,4.23,Y
@@ -8810,7 +8810,7 @@ DP08113,Vikas M,Mumbai,Scooter,Full-time,4.3,Y
 DP12656,Kiran Z,Bengaluru,Bike,Part-time,3.94,Y
 DP00438,Priya R,Delhi,Cycle,Part-time,4.24,Y
 DP06978,Priya R,Hyderabad,Bike,Contract,3.72,N
-DP12596,Santosh O,Chennai,Cycle,Full-time,4.0,Y
+DP12596,Santosh O,Chennai,Cycle,Full-time,4,Y
 DP05553,Arjun Y,Chennai,Scooter,Part-time,4.13,Y
 DP00896,Suresh N,Bengaluru,Cycle,Full-time,4.37,Y
 DP08376,Arjun Y,Ahmedabad,Scooter,Part-time,3.92,Y
@@ -8825,7 +8825,7 @@ DP12192,Pooja K,Chennai,Bike,Part-time,4.05,N
 DP08937,Amit B,Mumbai,Cycle,Full-time,3.89,N
 DP08540,Suresh Q,Bengaluru,Car,Part-time,4.18,N
 DP05621,Nikhil A,Bengaluru,Scooter,Contract,4.7,Y
-DP04258,Suresh U,Kolkata,Bike,Full-time,4.0,Y
+DP04258,Suresh U,Kolkata,Bike,Full-time,4,Y
 DP07641,Suresh D,Bengaluru,Cycle,Part-time,4.24,Y
 DP10064,Deepak A,Hyderabad,Bike,Full-time,3.95,Y
 DP08519,Pooja Q,Ahmedabad,Scooter,Part-time,3.97,Y
@@ -8949,7 +8949,7 @@ DP08367,Ravi O,Delhi,Scooter,Full-time,3.43,Y
 DP09850,Shreya B,Hyderabad,Cycle,Part-time,4.13,Y
 DP02084,Kiran M,Delhi,Bike,Full-time,4.24,Y
 DP14884,Neha Q,Ahmedabad,Scooter,Part-time,4.68,Y
-DP12647,Manoj A,Hyderabad,Bike,Full-time,5.0,Y
+DP12647,Manoj A,Hyderabad,Bike,Full-time,5,Y
 DP13098,Rakesh F,Mumbai,Bike,Full-time,3.51,Y
 DP08881,Divya H,Chennai,Bike,Part-time,4.18,Y
 DP08850,Suresh P,Bengaluru,Scooter,Part-time,4.4,Y
@@ -8957,10 +8957,10 @@ DP06856,Rakesh Y,Mumbai,Bike,Full-time,4.07,Y
 DP04001,Suresh D,Bengaluru,Scooter,Contract,4.53,Y
 DP12354,Neha F,Pune,Bike,Contract,4.07,Y
 DP03419,Amit I,Bengaluru,Scooter,Part-time,4.62,Y
-DP13783,Deepak E,Mumbai,Scooter,Full-time,4.0,Y
+DP13783,Deepak E,Mumbai,Scooter,Full-time,4,Y
 DP13303,Vikas K,Delhi,Scooter,Contract,3.87,N
 DP02162,Sneha I,Kolkata,Scooter,Part-time,3.8,Y
-DP03608,Rakesh Y,Chennai,Bike,Full-time,5.0,Y
+DP03608,Rakesh Y,Chennai,Bike,Full-time,5,Y
 DP01339,Meena I,Kolkata,Bike,Full-time,4.33,Y
 DP06808,Deepak H,Delhi,Cycle,Full-time,3.95,Y
 DP13057,Manoj N,Mumbai,Scooter,Full-time,3.5,Y
@@ -8996,7 +8996,7 @@ DP04672,Manoj U,Hyderabad,Scooter,Contract,4.37,Y
 DP14550,Deepak W,Mumbai,Scooter,Full-time,4.02,Y
 DP13126,Kiran N,Delhi,Scooter,Full-time,4.09,Y
 DP10497,Pooja T,Bengaluru,Scooter,Contract,4.41,Y
-DP11871,Suresh C,Delhi,Car,Full-time,4.0,Y
+DP11871,Suresh C,Delhi,Car,Full-time,4,Y
 DP03814,Nikhil T,Bengaluru,Scooter,Part-time,4.49,Y
 DP12337,Amit B,Kolkata,Scooter,Full-time,4.17,Y
 DP06281,Rahul J,Hyderabad,Cycle,Contract,4.34,Y
@@ -9010,7 +9010,7 @@ DP12234,Pooja S,Delhi,Bike,Part-time,4.06,Y
 DP12787,Divya N,Ahmedabad,Cycle,Part-time,4.06,Y
 DP08963,Amit F,Bengaluru,Bike,Full-time,4.39,Y
 DP08295,Nikhil E,Mumbai,Bike,Full-time,4.11,Y
-DP11459,Ravi P,Bengaluru,Bike,Part-time,5.0,Y
+DP11459,Ravi P,Bengaluru,Bike,Part-time,5,Y
 DP12131,Arjun I,Mumbai,Bike,Full-time,4.3,Y
 DP00674,Priya Z,Mumbai,Bike,Contract,4.04,N
 DP01970,Pooja V,Hyderabad,Scooter,Full-time,3.69,Y
@@ -9162,7 +9162,7 @@ DP04623,Rakesh V,Chennai,Bike,Full-time,4.39,Y
 DP14021,Suresh G,Mumbai,Scooter,Full-time,4.53,Y
 DP09180,Meena B,Delhi,Bike,Full-time,3.86,N
 DP13564,Suresh G,Bengaluru,Cycle,Contract,4.38,Y
-DP13027,Kiran K,Mumbai,Scooter,Part-time,4.0,Y
+DP13027,Kiran K,Mumbai,Scooter,Part-time,4,Y
 DP10050,Deepak N,Ahmedabad,Scooter,Part-time,4.06,Y
 DP00191,Arjun W,Delhi,Scooter,Contract,4.71,Y
 DP14100,Vikas N,Bengaluru,Scooter,Part-time,4.09,Y
@@ -9185,7 +9185,7 @@ DP12389,Sneha N,Chennai,Bike,Full-time,4.13,Y
 DP10795,Suresh C,Delhi,Bike,Contract,3.77,Y
 DP12191,Amit U,Mumbai,Cycle,Full-time,3.65,Y
 DP06958,Sneha D,Bengaluru,Bike,Part-time,4.32,Y
-DP06186,Santosh S,Delhi,Bike,Part-time,4.0,Y
+DP06186,Santosh S,Delhi,Bike,Part-time,4,Y
 DP04888,Manoj X,Bengaluru,Scooter,Contract,4.18,Y
 DP02873,Vikas S,Bengaluru,Bike,Full-time,4.77,Y
 DP07270,Suresh H,Pune,Bike,Contract,4.66,Y
@@ -9203,7 +9203,7 @@ DP00005,Suresh T,Mumbai,Scooter,Full-time,4.42,Y
 DP11928,Shreya V,Bengaluru,Scooter,Full-time,4.04,Y
 DP14707,Arjun R,Pune,Bike,Part-time,4.07,Y
 DP06074,Meena Z,Ahmedabad,Scooter,Contract,4.2,N
-DP07491,Priya D,Hyderabad,Bike,Contract,5.0,N
+DP07491,Priya D,Hyderabad,Bike,Contract,5,N
 DP03764,Nikhil B,Mumbai,Scooter,Part-time,4.09,Y
 DP07358,Sneha G,Bengaluru,Scooter,Full-time,4.34,Y
 DP06042,Neha L,Mumbai,Scooter,Part-time,4.55,Y
@@ -9250,7 +9250,7 @@ DP06397,Suresh Y,Delhi,Scooter,Part-time,4.31,Y
 DP06212,Sneha E,Kolkata,Scooter,Full-time,4.18,N
 DP02856,Priya Y,Delhi,Bike,Contract,3.68,Y
 DP04350,Rakesh U,Delhi,Cycle,Full-time,4.13,Y
-DP09065,Santosh S,Chennai,Cycle,Part-time,4.0,Y
+DP09065,Santosh S,Chennai,Cycle,Part-time,4,Y
 DP09589,Nikhil Q,Delhi,Bike,Full-time,4.16,Y
 DP03199,Rakesh I,Delhi,Bike,Part-time,4.15,Y
 DP09178,Arjun C,Pune,Scooter,Part-time,4.15,N
@@ -9309,7 +9309,7 @@ DP01139,Divya Q,Hyderabad,Cycle,Part-time,3.98,Y
 DP03472,Rakesh S,Kolkata,Bike,Contract,3.69,Y
 DP10817,Suresh X,Bengaluru,Car,Contract,4.19,Y
 DP02066,Ravi X,Hyderabad,Cycle,Part-time,4.36,Y
-DP08168,Shreya J,Bengaluru,Scooter,Full-time,4.0,Y
+DP08168,Shreya J,Bengaluru,Scooter,Full-time,4,Y
 DP06124,Amit X,Hyderabad,Bike,Part-time,4.02,N
 DP14110,Santosh L,Mumbai,Cycle,Full-time,4.26,Y
 DP05931,Rahul H,Bengaluru,Scooter,Part-time,4.08,Y
@@ -9414,7 +9414,7 @@ DP14075,Amit G,Bengaluru,Bike,Full-time,4.17,N
 DP11400,Ananya F,Ahmedabad,Bike,Full-time,4.36,Y
 DP01430,Arjun R,Ahmedabad,Bike,Full-time,4.44,Y
 DP02990,Shreya O,Delhi,Bike,Part-time,4.02,Y
-DP11008,Arjun Y,Bengaluru,Scooter,Part-time,5.0,Y
+DP11008,Arjun Y,Bengaluru,Scooter,Part-time,5,Y
 DP13313,Arjun E,Bengaluru,Cycle,Part-time,4.33,Y
 DP14868,Nikhil W,Mumbai,Bike,Part-time,4.23,Y
 DP06900,Suresh D,Delhi,Bike,Contract,4.46,Y
@@ -9453,7 +9453,7 @@ DP10222,Priya V,Bengaluru,Scooter,Full-time,4.72,Y
 DP03555,Nikhil V,Kolkata,Scooter,Contract,4.06,Y
 DP07364,Rahul D,Mumbai,Scooter,Full-time,3.98,Y
 DP08280,Kiran R,Mumbai,Scooter,Full-time,3.91,N
-DP09267,Rakesh N,Bengaluru,Cycle,Part-time,4.0,Y
+DP09267,Rakesh N,Bengaluru,Cycle,Part-time,4,Y
 DP12261,Manoj D,Kolkata,Scooter,Full-time,4.3,Y
 DP08285,Amit R,Ahmedabad,Scooter,Full-time,4.28,N
 DP09438,Sneha M,Bengaluru,Bike,Contract,4.71,Y
@@ -9547,7 +9547,7 @@ DP05709,Rahul J,Bengaluru,Bike,Contract,4.59,Y
 DP09448,Sneha W,Mumbai,Scooter,Full-time,4.11,Y
 DP14005,Rakesh Q,Mumbai,Car,Contract,3.93,Y
 DP13874,Ananya H,Delhi,Bike,Full-time,4.66,Y
-DP11615,Rakesh D,Mumbai,Bike,Part-time,5.0,Y
+DP11615,Rakesh D,Mumbai,Bike,Part-time,5,Y
 DP09419,Ravi G,Kolkata,Scooter,Contract,4.28,Y
 DP03654,Rakesh K,Chennai,Bike,Full-time,4.13,Y
 DP05972,Ravi Z,Mumbai,Bike,Full-time,4.5,Y
@@ -9632,7 +9632,7 @@ DP05907,Nikhil Q,Chennai,Scooter,Full-time,4.06,Y
 DP08077,Kiran W,Chennai,Scooter,Contract,4.09,Y
 DP05797,Pooja N,Bengaluru,Bike,Full-time,4.18,Y
 DP06765,Suresh M,Mumbai,Cycle,Full-time,4.45,Y
-DP05772,Nikhil Q,Pune,Bike,Contract,5.0,Y
+DP05772,Nikhil Q,Pune,Bike,Contract,5,Y
 DP01083,Neha X,Kolkata,Scooter,Full-time,4.04,Y
 DP10262,Shreya Z,Bengaluru,Scooter,Full-time,4.33,Y
 DP03385,Santosh P,Pune,Cycle,Full-time,4.24,N
@@ -9651,7 +9651,7 @@ DP10288,Divya R,Hyderabad,Bike,Contract,4.07,Y
 DP00590,Sneha Q,Chennai,Scooter,Part-time,4.62,Y
 DP11099,Divya A,Delhi,Bike,Full-time,4.63,Y
 DP04936,Manoj T,Bengaluru,Bike,Part-time,4.27,Y
-DP02636,Nikhil N,Mumbai,Cycle,Full-time,4.0,Y
+DP02636,Nikhil N,Mumbai,Cycle,Full-time,4,Y
 DP08925,Shreya K,Chennai,Scooter,Full-time,3.75,N
 DP00256,Nikhil E,Mumbai,Scooter,Part-time,4.51,N
 DP11524,Ananya W,Chennai,Scooter,Full-time,3.82,Y
@@ -9803,7 +9803,7 @@ DP07411,Kiran C,Chennai,Cycle,Full-time,3.87,Y
 DP08532,Deepak D,Kolkata,Bike,Full-time,4.32,Y
 DP08350,Suresh S,Bengaluru,Scooter,Full-time,4.21,Y
 DP12784,Arjun N,Hyderabad,Scooter,Full-time,3.75,Y
-DP02242,Priya W,Ahmedabad,Bike,Full-time,4.0,Y
+DP02242,Priya W,Ahmedabad,Bike,Full-time,4,Y
 DP01281,Priya G,Bengaluru,Scooter,Part-time,4.15,Y
 DP14883,Ananya I,Bengaluru,Car,Full-time,4.45,Y
 DP06815,Ananya E,Mumbai,Scooter,Part-time,4.24,Y
@@ -9935,7 +9935,7 @@ DP05436,Meena C,Hyderabad,Bike,Full-time,4.18,Y
 DP05135,Rakesh A,Bengaluru,Scooter,Full-time,3.96,Y
 DP08591,Priya D,Chennai,Bike,Full-time,4.04,Y
 DP01709,Ravi L,Chennai,Cycle,Full-time,4.4,Y
-DP04278,Suresh L,Mumbai,Bike,Contract,4.0,Y
+DP04278,Suresh L,Mumbai,Bike,Contract,4,Y
 DP04734,Arjun G,Mumbai,Bike,Part-time,4.46,Y
 DP03786,Nikhil G,Delhi,Cycle,Full-time,4.3,Y
 DP01577,Rakesh Q,Kolkata,Scooter,Part-time,4.21,Y
@@ -10009,7 +10009,7 @@ DP01918,Vikas I,Kolkata,Bike,Full-time,4.15,Y
 DP10937,Shreya M,Mumbai,Bike,Full-time,4.38,Y
 DP05843,Deepak A,Chennai,Scooter,Contract,4.13,Y
 DP00318,Shreya W,Delhi,Cycle,Full-time,3.72,Y
-DP08780,Pooja X,Mumbai,Scooter,Full-time,4.0,Y
+DP08780,Pooja X,Mumbai,Scooter,Full-time,4,Y
 DP01338,Meena U,Delhi,Bike,Contract,4.18,Y
 DP01099,Rahul C,Delhi,Scooter,Part-time,4.28,Y
 DP00234,Manoj Y,Kolkata,Bike,Full-time,4.37,Y
@@ -10065,7 +10065,7 @@ DP03739,Priya L,Hyderabad,Cycle,Full-time,3.78,Y
 DP03520,Meena Q,Bengaluru,Bike,Contract,3.99,Y
 DP08406,Vikas A,Delhi,Car,Full-time,4.28,Y
 DP03330,Divya V,Bengaluru,Bike,Full-time,4.25,N
-DP00546,Rakesh M,Bengaluru,Scooter,Full-time,5.0,Y
+DP00546,Rakesh M,Bengaluru,Scooter,Full-time,5,Y
 DP07645,Kiran A,Delhi,Scooter,Part-time,4.89,Y
 DP05703,Suresh H,Pune,Bike,Part-time,4.14,Y
 DP12853,Meena F,Bengaluru,Scooter,Part-time,4.54,Y
@@ -10264,7 +10264,7 @@ DP10979,Arjun Q,Hyderabad,Bike,Part-time,3.96,Y
 DP04675,Neha Y,Delhi,Scooter,Full-time,4.09,Y
 DP08665,Neha B,Hyderabad,Bike,Full-time,4.22,Y
 DP07807,Rahul D,Bengaluru,Bike,Full-time,4.08,Y
-DP00730,Vikas U,Kolkata,Car,Full-time,4.0,Y
+DP00730,Vikas U,Kolkata,Car,Full-time,4,Y
 DP03061,Deepak N,Delhi,Scooter,Full-time,4.04,Y
 DP05885,Arjun Z,Kolkata,Scooter,Contract,4.05,N
 DP08638,Meena U,Hyderabad,Bike,Full-time,3.95,Y
@@ -10312,7 +10312,7 @@ DP06603,Divya S,Mumbai,Bike,Part-time,3.5,Y
 DP05283,Suresh S,Delhi,Scooter,Part-time,4.88,Y
 DP06341,Vikas O,Chennai,Car,Full-time,4.1,Y
 DP10251,Pooja M,Mumbai,Bike,Contract,3.8,Y
-DP09618,Sneha Q,Mumbai,Bike,Contract,4.0,Y
+DP09618,Sneha Q,Mumbai,Bike,Contract,4,Y
 DP03158,Meena Z,Bengaluru,Scooter,Contract,4.18,Y
 DP12900,Rahul V,Bengaluru,Bike,Contract,3.97,Y
 DP04578,Nikhil L,Kolkata,Scooter,Part-time,4.41,Y
@@ -10444,7 +10444,7 @@ DP04758,Manoj U,Delhi,Bike,Full-time,3.86,Y
 DP03628,Kiran I,Bengaluru,Bike,Part-time,4.45,Y
 DP00518,Sneha H,Delhi,Scooter,Part-time,3.95,Y
 DP07796,Suresh E,Delhi,Car,Contract,4.42,Y
-DP10354,Amit W,Delhi,Scooter,Part-time,4.0,Y
+DP10354,Amit W,Delhi,Scooter,Part-time,4,Y
 DP04569,Pooja O,Hyderabad,Scooter,Full-time,4.73,N
 DP13561,Rakesh A,Kolkata,Scooter,Contract,4.1,Y
 DP04257,Rakesh C,Bengaluru,Car,Full-time,4.39,Y
@@ -10499,7 +10499,7 @@ DP13294,Priya S,Bengaluru,Bike,Part-time,4.23,Y
 DP12988,Meena K,Ahmedabad,Bike,Part-time,4.23,Y
 DP02533,Priya T,Ahmedabad,Scooter,Part-time,4.32,N
 DP02321,Deepak K,Chennai,Scooter,Full-time,4.3,Y
-DP03412,Kiran E,Bengaluru,Scooter,Full-time,4.0,Y
+DP03412,Kiran E,Bengaluru,Scooter,Full-time,4,Y
 DP06076,Ananya W,Pune,Scooter,Full-time,3.87,Y
 DP11049,Priya M,Kolkata,Scooter,Full-time,4.87,Y
 DP04626,Priya M,Kolkata,Bike,Part-time,3.99,Y
@@ -10604,7 +10604,7 @@ DP09996,Meena M,Bengaluru,Bike,Full-time,3.73,Y
 DP14799,Sneha W,Bengaluru,Bike,Full-time,4.22,Y
 DP11333,Shreya I,Mumbai,Bike,Part-time,3.97,N
 DP02025,Priya H,Chennai,Cycle,Contract,4.2,Y
-DP01137,Kiran S,Mumbai,Scooter,Full-time,5.0,Y
+DP01137,Kiran S,Mumbai,Scooter,Full-time,5,Y
 DP05576,Vikas B,Pune,Bike,Full-time,4.05,Y
 DP05049,Neha E,Bengaluru,Bike,Part-time,4.05,Y
 DP08252,Divya J,Mumbai,Scooter,Full-time,4.48,Y
@@ -10626,7 +10626,7 @@ DP03091,Deepak R,Kolkata,Scooter,Part-time,4.2,Y
 DP10606,Santosh H,Kolkata,Bike,Part-time,4.08,Y
 DP01053,Rakesh Y,Bengaluru,Bike,Part-time,4.58,Y
 DP00406,Pooja B,Delhi,Scooter,Full-time,4.21,Y
-DP01829,Divya N,Kolkata,Bike,Part-time,4.0,Y
+DP01829,Divya N,Kolkata,Bike,Part-time,4,Y
 DP14765,Vikas B,Mumbai,Scooter,Full-time,4.51,Y
 DP08503,Ravi U,Pune,Bike,Contract,4.17,Y
 DP14983,Pooja T,Bengaluru,Bike,Contract,3.69,Y
@@ -10679,7 +10679,7 @@ DP09636,Neha N,Delhi,Scooter,Part-time,4.01,N
 DP01717,Ravi Z,Mumbai,Cycle,Full-time,4.59,Y
 DP00107,Neha U,Mumbai,Bike,Full-time,4.57,Y
 DP07019,Pooja B,Kolkata,Bike,Part-time,4.32,Y
-DP14071,Neha Y,Mumbai,Cycle,Full-time,4.0,N
+DP14071,Neha Y,Mumbai,Cycle,Full-time,4,N
 DP04161,Divya T,Ahmedabad,Bike,Part-time,3.93,N
 DP03040,Ravi M,Kolkata,Cycle,Full-time,4.34,Y
 DP09221,Ravi T,Pune,Scooter,Part-time,4.33,Y
@@ -10787,7 +10787,7 @@ DP03983,Divya R,Bengaluru,Scooter,Part-time,3.88,Y
 DP11084,Shreya Q,Mumbai,Scooter,Contract,4.17,N
 DP00305,Vikas X,Ahmedabad,Cycle,Full-time,4.34,Y
 DP03247,Pooja N,Delhi,Car,Part-time,4.69,Y
-DP11167,Priya I,Kolkata,Scooter,Contract,4.0,N
+DP11167,Priya I,Kolkata,Scooter,Contract,4,N
 DP02846,Suresh I,Mumbai,Bike,Part-time,4.43,Y
 DP12216,Rakesh B,Bengaluru,Scooter,Contract,3.6,Y
 DP05447,Divya K,Bengaluru,Bike,Part-time,4.03,Y
@@ -11105,7 +11105,7 @@ DP04277,Priya H,Delhi,Cycle,Part-time,4.2,Y
 DP13434,Santosh M,Mumbai,Car,Contract,4.11,Y
 DP09591,Suresh H,Delhi,Scooter,Full-time,4.26,Y
 DP10149,Santosh Q,Mumbai,Cycle,Part-time,4.3,Y
-DP01921,Deepak Z,Bengaluru,Bike,Part-time,4.0,Y
+DP01921,Deepak Z,Bengaluru,Bike,Part-time,4,Y
 DP06994,Neha J,Kolkata,Scooter,Full-time,4.28,Y
 DP00046,Santosh R,Bengaluru,Scooter,Full-time,4.18,Y
 DP09406,Ravi P,Delhi,Cycle,Full-time,3.85,Y
@@ -11235,7 +11235,7 @@ DP12736,Ananya V,Delhi,Bike,Full-time,4.23,Y
 DP08371,Shreya J,Ahmedabad,Bike,Contract,4.59,Y
 DP09295,Sneha L,Pune,Cycle,Full-time,3.84,Y
 DP02870,Meena K,Pune,Car,Full-time,4.54,Y
-DP02042,Vikas Z,Chennai,Bike,Full-time,4.0,Y
+DP02042,Vikas Z,Chennai,Bike,Full-time,4,Y
 DP05155,Kiran I,Bengaluru,Scooter,Full-time,4.27,Y
 DP05463,Amit E,Bengaluru,Scooter,Full-time,4.66,N
 DP07349,Suresh T,Mumbai,Scooter,Full-time,4.29,Y
@@ -11250,7 +11250,7 @@ DP13018,Suresh Q,Delhi,Cycle,Contract,4.58,Y
 DP08670,Pooja P,Chennai,Scooter,Full-time,3.78,Y
 DP08391,Ravi V,Ahmedabad,Scooter,Part-time,4.36,Y
 DP10444,Manoj U,Mumbai,Cycle,Part-time,4.47,Y
-DP00090,Santosh O,Bengaluru,Scooter,Part-time,4.0,N
+DP00090,Santosh O,Bengaluru,Scooter,Part-time,4,N
 DP07953,Nikhil M,Bengaluru,Scooter,Full-time,3.72,Y
 DP08303,Kiran E,Chennai,Scooter,Full-time,4.44,Y
 DP07636,Nikhil N,Bengaluru,Bike,Contract,4.37,N
@@ -11291,7 +11291,7 @@ DP14052,Manoj D,Bengaluru,Bike,Full-time,4.13,Y
 DP00592,Nikhil M,Kolkata,Bike,Full-time,4.18,Y
 DP08938,Deepak U,Delhi,Scooter,Part-time,4.03,Y
 DP00501,Ananya T,Delhi,Car,Contract,4.06,Y
-DP07451,Nikhil B,Chennai,Bike,Contract,4.0,Y
+DP07451,Nikhil B,Chennai,Bike,Contract,4,Y
 DP03973,Meena K,Bengaluru,Scooter,Part-time,3.97,N
 DP03667,Ravi Y,Hyderabad,Scooter,Full-time,4.03,Y
 DP00237,Pooja E,Chennai,Bike,Contract,3.88,Y
@@ -11334,7 +11334,7 @@ DP06721,Pooja O,Chennai,Scooter,Part-time,4.15,Y
 DP05445,Rakesh C,Pune,Scooter,Full-time,4.19,Y
 DP04809,Pooja T,Chennai,Bike,Contract,4.38,Y
 DP04865,Neha O,Pune,Scooter,Full-time,4.37,Y
-DP08877,Deepak T,Pune,Scooter,Part-time,4.0,Y
+DP08877,Deepak T,Pune,Scooter,Part-time,4,Y
 DP10850,Ravi M,Pune,Scooter,Full-time,4.05,N
 DP11352,Divya N,Pune,Bike,Full-time,4.26,Y
 DP10565,Vikas V,Chennai,Cycle,Contract,4.15,Y
@@ -11379,7 +11379,7 @@ DP10909,Suresh S,Delhi,Scooter,Part-time,4.61,N
 DP00758,Vikas O,Kolkata,Scooter,Full-time,3.96,Y
 DP14186,Pooja T,Mumbai,Bike,Part-time,4.33,Y
 DP03090,Priya Z,Delhi,Scooter,Full-time,4.41,Y
-DP09013,Suresh W,Delhi,Scooter,Full-time,4.0,Y
+DP09013,Suresh W,Delhi,Scooter,Full-time,4,Y
 DP01327,Priya F,Bengaluru,Scooter,Full-time,3.96,Y
 DP03143,Rakesh Q,Delhi,Bike,Full-time,4.64,Y
 DP06586,Rakesh C,Delhi,Scooter,Contract,4.02,Y
@@ -11410,7 +11410,7 @@ DP09866,Arjun S,Bengaluru,Scooter,Part-time,3.91,Y
 DP08592,Sneha A,Kolkata,Cycle,Full-time,4.33,Y
 DP12662,Pooja V,Hyderabad,Bike,Full-time,4.04,Y
 DP04899,Divya N,Kolkata,Bike,Full-time,4.72,Y
-DP01067,Nikhil U,Bengaluru,Scooter,Full-time,4.0,Y
+DP01067,Nikhil U,Bengaluru,Scooter,Full-time,4,Y
 DP11185,Pooja T,Mumbai,Scooter,Part-time,4.46,N
 DP09420,Pooja H,Mumbai,Scooter,Full-time,4.23,Y
 DP07228,Rakesh K,Chennai,Scooter,Full-time,4.52,Y
@@ -11432,7 +11432,7 @@ DP05098,Nikhil J,Pune,Bike,Full-time,4.21,Y
 DP14308,Ravi A,Mumbai,Scooter,Part-time,4.2,Y
 DP13942,Divya X,Hyderabad,Bike,Full-time,3.82,Y
 DP05246,Deepak X,Delhi,Scooter,Full-time,4.58,Y
-DP05822,Ananya H,Mumbai,Bike,Full-time,4.0,Y
+DP05822,Ananya H,Mumbai,Bike,Full-time,4,Y
 DP10414,Vikas X,Bengaluru,Bike,Full-time,4.68,Y
 DP03142,Priya Y,Kolkata,Car,Full-time,4.34,Y
 DP06264,Santosh C,Mumbai,Scooter,Full-time,4.13,N
@@ -11731,7 +11731,7 @@ DP10772,Nikhil R,Mumbai,Cycle,Part-time,3.64,Y
 DP12907,Pooja L,Delhi,Scooter,Contract,4.21,Y
 DP07204,Pooja G,Mumbai,Bike,Full-time,4.21,Y
 DP00196,Santosh Z,Hyderabad,Cycle,Part-time,4.23,Y
-DP02290,Suresh N,Bengaluru,Scooter,Contract,4.0,Y
+DP02290,Suresh N,Bengaluru,Scooter,Contract,4,Y
 DP10700,Amit U,Chennai,Bike,Full-time,4.3,Y
 DP12181,Rakesh X,Delhi,Bike,Full-time,4.11,Y
 DP02467,Priya U,Mumbai,Car,Part-time,4.16,Y
@@ -11774,10 +11774,10 @@ DP10101,Meena C,Chennai,Scooter,Full-time,4.03,Y
 DP11313,Manoj M,Delhi,Bike,Part-time,4.65,Y
 DP11629,Rakesh M,Bengaluru,Scooter,Full-time,3.96,Y
 DP09766,Amit U,Pune,Bike,Part-time,4.14,Y
-DP02593,Ravi M,Delhi,Scooter,Part-time,5.0,N
+DP02593,Ravi M,Delhi,Scooter,Part-time,5,N
 DP08257,Neha U,Chennai,Bike,Contract,4.54,Y
 DP04156,Priya S,Hyderabad,Bike,Contract,4.65,Y
-DP13934,Pooja R,Bengaluru,Bike,Full-time,5.0,Y
+DP13934,Pooja R,Bengaluru,Bike,Full-time,5,Y
 DP13452,Ananya R,Chennai,Scooter,Contract,4.44,Y
 DP02751,Ananya V,Mumbai,Car,Full-time,4.09,Y
 DP04264,Divya O,Bengaluru,Car,Full-time,4.26,Y
@@ -11794,7 +11794,7 @@ DP03897,Vikas J,Bengaluru,Scooter,Part-time,4.26,Y
 DP07209,Amit V,Bengaluru,Bike,Full-time,4.32,Y
 DP08378,Santosh Y,Kolkata,Bike,Full-time,3.97,Y
 DP10059,Shreya Y,Pune,Scooter,Part-time,4.26,Y
-DP08240,Nikhil N,Kolkata,Scooter,Full-time,4.0,Y
+DP08240,Nikhil N,Kolkata,Scooter,Full-time,4,Y
 DP00271,Suresh C,Bengaluru,Scooter,Part-time,4.46,N
 DP03864,Divya G,Pune,Scooter,Contract,4.77,Y
 DP05855,Amit V,Bengaluru,Scooter,Full-time,4.18,Y
@@ -11835,7 +11835,7 @@ DP03827,Ananya V,Pune,Car,Part-time,4.61,Y
 DP04513,Manoj V,Delhi,Scooter,Part-time,3.66,N
 DP03257,Pooja Z,Delhi,Bike,Part-time,3.87,Y
 DP10548,Meena T,Mumbai,Cycle,Full-time,3.75,N
-DP11511,Neha P,Chennai,Bike,Contract,5.0,Y
+DP11511,Neha P,Chennai,Bike,Contract,5,Y
 DP11798,Vikas X,Hyderabad,Cycle,Full-time,4.33,N
 DP13032,Kiran A,Mumbai,Bike,Part-time,4.08,Y
 DP00358,Neha Q,Ahmedabad,Bike,Part-time,4.53,Y
@@ -11895,7 +11895,7 @@ DP00411,Priya I,Pune,Bike,Full-time,4.23,Y
 DP02437,Arjun M,Bengaluru,Scooter,Full-time,4.12,Y
 DP02816,Nikhil O,Chennai,Scooter,Full-time,4.01,Y
 DP04160,Suresh P,Mumbai,Cycle,Full-time,4.06,Y
-DP12179,Ananya R,Chennai,Bike,Full-time,4.0,Y
+DP12179,Ananya R,Chennai,Bike,Full-time,4,Y
 DP05017,Manoj M,Delhi,Scooter,Part-time,4.24,Y
 DP07442,Kiran V,Bengaluru,Bike,Full-time,4.26,Y
 DP00121,Rakesh W,Mumbai,Scooter,Full-time,4.17,N
@@ -11915,7 +11915,7 @@ DP03420,Santosh K,Bengaluru,Scooter,Contract,4.76,Y
 DP08336,Vikas D,Hyderabad,Scooter,Part-time,3.8,N
 DP12964,Shreya M,Delhi,Scooter,Contract,3.86,Y
 DP08837,Divya G,Mumbai,Bike,Full-time,4.27,N
-DP08644,Arjun Y,Kolkata,Scooter,Part-time,5.0,N
+DP08644,Arjun Y,Kolkata,Scooter,Part-time,5,N
 DP14054,Neha R,Hyderabad,Scooter,Full-time,4.11,Y
 DP14111,Ananya Q,Delhi,Scooter,Full-time,3.93,Y
 DP09964,Manoj B,Bengaluru,Scooter,Contract,4.6,Y
@@ -12100,7 +12100,7 @@ DP09289,Priya L,Hyderabad,Bike,Part-time,4.94,Y
 DP01065,Neha K,Bengaluru,Cycle,Full-time,4.31,Y
 DP08693,Ravi X,Bengaluru,Bike,Full-time,4.73,Y
 DP03928,Kiran T,Bengaluru,Cycle,Full-time,4.46,Y
-DP12759,Priya G,Delhi,Bike,Part-time,4.0,Y
+DP12759,Priya G,Delhi,Bike,Part-time,4,Y
 DP08135,Vikas S,Mumbai,Scooter,Part-time,4.51,Y
 DP14282,Vikas Q,Chennai,Scooter,Contract,4.18,Y
 DP04045,Suresh D,Delhi,Cycle,Full-time,4.08,Y
@@ -12112,7 +12112,7 @@ DP06182,Shreya Y,Chennai,Scooter,Part-time,4.44,Y
 DP01981,Sneha T,Mumbai,Cycle,Part-time,4.32,Y
 DP05259,Sneha C,Chennai,Bike,Contract,4.38,N
 DP06309,Pooja D,Delhi,Bike,Part-time,4.77,Y
-DP10949,Kiran W,Bengaluru,Scooter,Contract,5.0,Y
+DP10949,Kiran W,Bengaluru,Scooter,Contract,5,Y
 DP14958,Arjun F,Kolkata,Scooter,Part-time,3.61,N
 DP11003,Deepak V,Ahmedabad,Bike,Full-time,4.6,Y
 DP01003,Ananya N,Chennai,Cycle,Full-time,4.36,Y
@@ -12172,8 +12172,8 @@ DP05131,Nikhil H,Ahmedabad,Scooter,Full-time,4.14,Y
 DP14815,Vikas W,Kolkata,Scooter,Part-time,4.45,Y
 DP09512,Nikhil L,Pune,Cycle,Full-time,4.15,Y
 DP08003,Vikas M,Delhi,Scooter,Full-time,4.17,Y
-DP05115,Santosh B,Kolkata,Cycle,Part-time,4.0,Y
-DP03572,Arjun C,Mumbai,Scooter,Contract,5.0,Y
+DP05115,Santosh B,Kolkata,Cycle,Part-time,4,Y
+DP03572,Arjun C,Mumbai,Scooter,Contract,5,Y
 DP04472,Nikhil A,Hyderabad,Scooter,Full-time,4.03,Y
 DP07183,Suresh W,Bengaluru,Scooter,Part-time,3.95,Y
 DP01116,Arjun Q,Hyderabad,Scooter,Contract,4.42,N
@@ -12273,7 +12273,7 @@ DP10358,Meena I,Chennai,Bike,Contract,4.12,Y
 DP05857,Divya Z,Bengaluru,Scooter,Full-time,4.42,Y
 DP13396,Rahul P,Delhi,Scooter,Contract,3.91,Y
 DP11010,Ravi Y,Bengaluru,Bike,Full-time,4.4,Y
-DP05012,Deepak G,Hyderabad,Scooter,Full-time,4.0,N
+DP05012,Deepak G,Hyderabad,Scooter,Full-time,4,N
 DP12742,Nikhil Q,Pune,Scooter,Contract,4.38,Y
 DP09306,Nikhil K,Delhi,Bike,Contract,4.3,Y
 DP12826,Arjun H,Hyderabad,Scooter,Full-time,3.86,Y
@@ -12487,7 +12487,7 @@ DP11349,Deepak K,Kolkata,Bike,Part-time,3.7,Y
 DP07078,Neha J,Kolkata,Bike,Full-time,3.99,Y
 DP09317,Ravi E,Pune,Scooter,Full-time,4.02,Y
 DP01843,Ananya J,Hyderabad,Bike,Part-time,4.03,Y
-DP10671,Ravi Q,Kolkata,Bike,Part-time,4.0,Y
+DP10671,Ravi Q,Kolkata,Bike,Part-time,4,Y
 DP02214,Divya W,Hyderabad,Scooter,Full-time,3.9,Y
 DP00176,Santosh N,Delhi,Scooter,Contract,4.29,N
 DP03012,Deepak Z,Bengaluru,Scooter,Full-time,4.45,Y
@@ -12612,7 +12612,7 @@ DP13776,Pooja M,Bengaluru,Scooter,Full-time,3.98,Y
 DP12545,Ravi Q,Delhi,Bike,Part-time,3.54,Y
 DP01862,Suresh Z,Mumbai,Cycle,Part-time,4.59,N
 DP08537,Divya Z,Bengaluru,Scooter,Part-time,4.19,Y
-DP05638,Divya U,Bengaluru,Scooter,Full-time,4.0,Y
+DP05638,Divya U,Bengaluru,Scooter,Full-time,4,Y
 DP06121,Kiran L,Hyderabad,Bike,Full-time,4.05,Y
 DP07723,Vikas Q,Delhi,Bike,Full-time,4.71,Y
 DP04501,Rahul O,Bengaluru,Bike,Contract,3.82,N
@@ -12628,7 +12628,7 @@ DP09843,Vikas I,Ahmedabad,Bike,Part-time,4.45,Y
 DP00063,Santosh B,Ahmedabad,Bike,Contract,4.18,Y
 DP08726,Suresh H,Bengaluru,Bike,Full-time,4.2,Y
 DP13828,Nikhil F,Hyderabad,Bike,Full-time,4.23,Y
-DP14767,Pooja K,Kolkata,Scooter,Part-time,4.0,Y
+DP14767,Pooja K,Kolkata,Scooter,Part-time,4,Y
 DP01189,Ananya W,Kolkata,Scooter,Part-time,4.48,Y
 DP03954,Suresh Q,Chennai,Bike,Full-time,4.45,N
 DP02708,Nikhil D,Delhi,Scooter,Part-time,4.61,N
@@ -12813,7 +12813,7 @@ DP11663,Kiran V,Kolkata,Bike,Full-time,4.29,Y
 DP11837,Neha S,Kolkata,Cycle,Part-time,3.98,N
 DP08151,Nikhil R,Kolkata,Car,Full-time,4.1,Y
 DP06737,Amit L,Delhi,Scooter,Part-time,4.51,Y
-DP14879,Amit G,Ahmedabad,Scooter,Full-time,5.0,Y
+DP14879,Amit G,Ahmedabad,Scooter,Full-time,5,Y
 DP13179,Rahul A,Chennai,Bike,Part-time,4.11,Y
 DP05189,Ananya Q,Hyderabad,Bike,Part-time,4.31,Y
 DP11225,Priya G,Bengaluru,Scooter,Full-time,4.2,Y
@@ -12839,7 +12839,7 @@ DP10280,Divya L,Delhi,Cycle,Contract,4.27,Y
 DP01288,Neha Q,Bengaluru,Scooter,Full-time,3.8,Y
 DP13030,Pooja T,Bengaluru,Cycle,Full-time,4.06,Y
 DP10765,Rakesh P,Bengaluru,Scooter,Part-time,4.45,Y
-DP01607,Amit H,Bengaluru,Bike,Full-time,4.0,Y
+DP01607,Amit H,Bengaluru,Bike,Full-time,4,Y
 DP05690,Priya A,Bengaluru,Bike,Part-time,4.07,N
 DP06477,Shreya A,Kolkata,Scooter,Full-time,4.95,N
 DP12943,Nikhil M,Bengaluru,Car,Part-time,4.02,Y
@@ -13031,7 +13031,7 @@ DP11041,Suresh D,Chennai,Bike,Full-time,3.99,Y
 DP02129,Shreya H,Chennai,Cycle,Full-time,4.66,N
 DP06280,Neha O,Hyderabad,Cycle,Part-time,4.09,Y
 DP14195,Kiran W,Kolkata,Bike,Part-time,4.47,N
-DP06620,Vikas Z,Bengaluru,Bike,Full-time,4.0,Y
+DP06620,Vikas Z,Bengaluru,Bike,Full-time,4,Y
 DP08178,Rakesh C,Hyderabad,Bike,Contract,4.38,N
 DP09385,Neha Y,Kolkata,Scooter,Part-time,4.37,Y
 DP05770,Amit W,Hyderabad,Bike,Full-time,4.46,N
@@ -13070,9 +13070,9 @@ DP08561,Manoj A,Hyderabad,Scooter,Part-time,3.99,Y
 DP12775,Vikas T,Chennai,Scooter,Part-time,4.61,Y
 DP13546,Priya F,Chennai,Car,Full-time,3.75,Y
 DP01337,Ananya X,Delhi,Scooter,Contract,4.14,Y
-DP01427,Ravi T,Bengaluru,Cycle,Part-time,4.0,Y
+DP01427,Ravi T,Bengaluru,Cycle,Part-time,4,Y
 DP10128,Meena E,Ahmedabad,Scooter,Full-time,4.47,Y
-DP03029,Arjun K,Chennai,Bike,Contract,5.0,Y
+DP03029,Arjun K,Chennai,Bike,Contract,5,Y
 DP01954,Santosh N,Delhi,Bike,Part-time,4.6,Y
 DP01098,Rakesh B,Delhi,Car,Part-time,4.33,Y
 DP07294,Rahul A,Ahmedabad,Scooter,Full-time,4.73,Y
@@ -13089,7 +13089,7 @@ DP10364,Nikhil H,Kolkata,Scooter,Full-time,4.28,Y
 DP09509,Ananya T,Bengaluru,Scooter,Contract,4.47,Y
 DP05564,Divya W,Chennai,Bike,Contract,4.45,Y
 DP05364,Suresh S,Pune,Scooter,Contract,3.92,Y
-DP02121,Suresh Q,Ahmedabad,Scooter,Full-time,4.0,Y
+DP02121,Suresh Q,Ahmedabad,Scooter,Full-time,4,Y
 DP05991,Suresh F,Bengaluru,Scooter,Full-time,4.51,Y
 DP10442,Shreya W,Chennai,Bike,Part-time,4.59,Y
 DP10978,Priya L,Bengaluru,Bike,Full-time,4.19,Y
@@ -13180,7 +13180,7 @@ DP05379,Nikhil U,Delhi,Bike,Contract,4.75,Y
 DP08758,Arjun S,Mumbai,Scooter,Part-time,4.03,Y
 DP02007,Neha H,Hyderabad,Scooter,Part-time,3.28,N
 DP13184,Priya F,Pune,Scooter,Full-time,4.1,Y
-DP05959,Divya S,Bengaluru,Car,Contract,4.0,Y
+DP05959,Divya S,Bengaluru,Car,Contract,4,Y
 DP09201,Meena V,Delhi,Scooter,Full-time,4.43,Y
 DP01252,Amit V,Hyderabad,Scooter,Full-time,4.27,Y
 DP14152,Suresh J,Delhi,Bike,Part-time,4.71,Y
@@ -13408,7 +13408,7 @@ DP00402,Ravi W,Delhi,Bike,Full-time,4.22,Y
 DP08084,Kiran T,Mumbai,Bike,Contract,3.97,Y
 DP11491,Ravi B,Mumbai,Bike,Contract,4.04,Y
 DP10578,Ravi T,Ahmedabad,Scooter,Full-time,4.16,Y
-DP05295,Arjun I,Kolkata,Bike,Part-time,4.0,Y
+DP05295,Arjun I,Kolkata,Bike,Part-time,4,Y
 DP03533,Deepak C,Delhi,Bike,Full-time,4.64,Y
 DP07288,Neha Q,Bengaluru,Scooter,Contract,4.35,Y
 DP05999,Amit C,Pune,Scooter,Part-time,3.75,Y
@@ -13447,7 +13447,7 @@ DP14378,Arjun M,Bengaluru,Bike,Part-time,4.71,Y
 DP02427,Amit M,Pune,Bike,Full-time,4.14,Y
 DP10223,Suresh D,Ahmedabad,Bike,Full-time,4.45,Y
 DP09902,Sneha O,Chennai,Bike,Part-time,4.29,Y
-DP01169,Deepak X,Hyderabad,Scooter,Part-time,4.0,N
+DP01169,Deepak X,Hyderabad,Scooter,Part-time,4,N
 DP00023,Santosh D,Ahmedabad,Cycle,Full-time,4.47,Y
 DP07505,Vikas R,Kolkata,Cycle,Part-time,4.11,Y
 DP00188,Priya J,Bengaluru,Scooter,Full-time,4.92,Y
@@ -13508,7 +13508,7 @@ DP06793,Shreya N,Hyderabad,Bike,Full-time,4.4,Y
 DP02809,Neha E,Mumbai,Scooter,Contract,4.3,Y
 DP09505,Rakesh E,Pune,Car,Full-time,3.98,Y
 DP06878,Divya L,Ahmedabad,Scooter,Part-time,4.96,Y
-DP04640,Deepak V,Bengaluru,Bike,Full-time,4.0,Y
+DP04640,Deepak V,Bengaluru,Bike,Full-time,4,Y
 DP11703,Vikas F,Delhi,Bike,Full-time,4.63,Y
 DP09871,Ravi O,Delhi,Scooter,Contract,4.38,Y
 DP04844,Meena O,Delhi,Scooter,Full-time,3.72,Y
@@ -13545,7 +13545,7 @@ DP04396,Arjun C,Bengaluru,Bike,Full-time,4.31,N
 DP12985,Arjun V,Chennai,Bike,Part-time,3.92,Y
 DP00786,Vikas B,Delhi,Scooter,Full-time,3.72,N
 DP13616,Pooja S,Delhi,Scooter,Part-time,4.63,Y
-DP09055,Shreya Q,Bengaluru,Scooter,Full-time,5.0,N
+DP09055,Shreya Q,Bengaluru,Scooter,Full-time,5,N
 DP07392,Pooja Q,Bengaluru,Scooter,Part-time,3.98,Y
 DP14512,Ravi D,Chennai,Scooter,Full-time,4.66,Y
 DP02341,Rahul K,Mumbai,Bike,Full-time,4.32,Y
@@ -13589,7 +13589,7 @@ DP13941,Arjun Q,Hyderabad,Bike,Full-time,4.46,N
 DP14733,Kiran Y,Mumbai,Bike,Full-time,3.68,Y
 DP07466,Vikas K,Bengaluru,Bike,Full-time,4.15,Y
 DP14155,Divya S,Hyderabad,Scooter,Contract,4.39,Y
-DP12581,Suresh T,Mumbai,Car,Part-time,5.0,Y
+DP12581,Suresh T,Mumbai,Car,Part-time,5,Y
 DP13628,Divya W,Kolkata,Scooter,Full-time,3.76,Y
 DP04284,Neha V,Chennai,Bike,Part-time,4.85,Y
 DP12012,Meena K,Bengaluru,Bike,Full-time,3.74,Y
@@ -13703,7 +13703,7 @@ DP07961,Arjun H,Delhi,Bike,Contract,4.5,Y
 DP02771,Arjun V,Hyderabad,Scooter,Contract,4.28,Y
 DP10754,Priya S,Chennai,Cycle,Part-time,3.74,Y
 DP01818,Ravi E,Chennai,Scooter,Contract,3.6,Y
-DP10668,Kiran I,Bengaluru,Bike,Part-time,4.0,Y
+DP10668,Kiran I,Bengaluru,Bike,Part-time,4,Y
 DP05121,Arjun V,Delhi,Bike,Contract,4.33,Y
 DP14957,Deepak A,Kolkata,Cycle,Full-time,4.24,Y
 DP10165,Suresh Y,Delhi,Bike,Contract,4.22,Y
@@ -13847,7 +13847,7 @@ DP06496,Pooja N,Bengaluru,Bike,Contract,4.38,Y
 DP11432,Deepak J,Mumbai,Scooter,Part-time,4.07,Y
 DP04490,Rahul I,Delhi,Bike,Full-time,4.52,Y
 DP11980,Ravi S,Mumbai,Scooter,Part-time,4.07,Y
-DP10329,Arjun X,Bengaluru,Car,Part-time,4.0,N
+DP10329,Arjun X,Bengaluru,Car,Part-time,4,N
 DP04977,Priya O,Bengaluru,Cycle,Full-time,4.35,Y
 DP01458,Sneha F,Bengaluru,Scooter,Full-time,3.72,Y
 DP12510,Shreya J,Ahmedabad,Bike,Part-time,3.82,Y
@@ -13934,7 +13934,7 @@ DP01684,Rahul H,Ahmedabad,Scooter,Full-time,3.98,Y
 DP10970,Meena C,Bengaluru,Scooter,Full-time,4.22,Y
 DP03024,Pooja B,Bengaluru,Scooter,Part-time,4.13,Y
 DP06947,Shreya A,Delhi,Cycle,Part-time,4.43,Y
-DP09336,Sneha E,Delhi,Scooter,Full-time,4.0,Y
+DP09336,Sneha E,Delhi,Scooter,Full-time,4,Y
 DP09585,Pooja C,Mumbai,Cycle,Full-time,4.01,Y
 DP07247,Ananya Z,Pune,Car,Full-time,3.83,Y
 DP04341,Pooja O,Delhi,Bike,Part-time,3.75,Y
@@ -13962,7 +13962,7 @@ DP04925,Ravi D,Bengaluru,Cycle,Part-time,4.36,Y
 DP10748,Manoj S,Pune,Bike,Part-time,4.17,Y
 DP14718,Nikhil G,Delhi,Scooter,Full-time,4.21,Y
 DP10733,Suresh R,Mumbai,Scooter,Full-time,4.14,Y
-DP12614,Arjun D,Mumbai,Bike,Contract,4.0,Y
+DP12614,Arjun D,Mumbai,Bike,Contract,4,Y
 DP07016,Pooja A,Mumbai,Bike,Full-time,4.04,N
 DP01197,Rakesh R,Hyderabad,Scooter,Full-time,4.13,Y
 DP06389,Ravi W,Bengaluru,Cycle,Full-time,4.27,Y
@@ -14166,7 +14166,7 @@ DP06192,Ravi B,Mumbai,Scooter,Full-time,4.63,Y
 DP10156,Rakesh M,Bengaluru,Scooter,Full-time,4.06,Y
 DP06634,Arjun F,Hyderabad,Bike,Part-time,4.79,Y
 DP09093,Ananya X,Mumbai,Cycle,Full-time,4.84,Y
-DP03281,Santosh S,Hyderabad,Cycle,Full-time,4.0,Y
+DP03281,Santosh S,Hyderabad,Cycle,Full-time,4,Y
 DP14783,Santosh M,Mumbai,Scooter,Full-time,3.99,Y
 DP13286,Ravi Q,Mumbai,Scooter,Full-time,4.11,Y
 DP08460,Vikas S,Bengaluru,Bike,Contract,3.86,Y
@@ -14205,7 +14205,7 @@ DP02151,Santosh Y,Hyderabad,Car,Part-time,3.54,Y
 DP04471,Shreya C,Chennai,Bike,Full-time,4.6,Y
 DP00866,Rakesh N,Bengaluru,Scooter,Part-time,4.41,Y
 DP01779,Rahul M,Pune,Bike,Full-time,4.21,N
-DP06772,Amit G,Delhi,Cycle,Full-time,4.0,Y
+DP06772,Amit G,Delhi,Cycle,Full-time,4,Y
 DP14225,Amit V,Delhi,Scooter,Contract,4.21,Y
 DP10678,Nikhil R,Pune,Scooter,Contract,3.72,N
 DP02926,Suresh I,Bengaluru,Bike,Part-time,4.53,Y
@@ -14278,7 +14278,7 @@ DP03601,Deepak H,Mumbai,Bike,Full-time,3.63,Y
 DP01306,Divya O,Pune,Cycle,Contract,3.71,Y
 DP01055,Manoj Q,Pune,Bike,Part-time,4.19,Y
 DP05384,Sneha N,Bengaluru,Scooter,Full-time,4.48,Y
-DP11189,Pooja O,Kolkata,Scooter,Full-time,4.0,Y
+DP11189,Pooja O,Kolkata,Scooter,Full-time,4,Y
 DP12062,Vikas L,Delhi,Bike,Full-time,4.18,Y
 DP13645,Shreya O,Hyderabad,Car,Full-time,4.75,Y
 DP05696,Meena P,Delhi,Scooter,Full-time,4.09,Y
@@ -14320,7 +14320,7 @@ DP14430,Priya G,Bengaluru,Bike,Full-time,4.14,Y
 DP06377,Arjun X,Mumbai,Scooter,Contract,4.04,Y
 DP02896,Ravi U,Hyderabad,Bike,Full-time,4.54,Y
 DP01088,Nikhil S,Bengaluru,Bike,Full-time,3.91,Y
-DP14284,Divya V,Bengaluru,Bike,Contract,5.0,Y
+DP14284,Divya V,Bengaluru,Bike,Contract,5,Y
 DP02522,Priya Y,Ahmedabad,Car,Full-time,3.82,N
 DP14531,Meena G,Delhi,Bike,Full-time,4.43,Y
 DP04512,Deepak D,Delhi,Cycle,Contract,4.52,Y
@@ -14337,7 +14337,7 @@ DP07128,Priya U,Hyderabad,Cycle,Contract,4.2,Y
 DP02820,Ananya U,Hyderabad,Bike,Part-time,3.77,N
 DP11675,Ravi Y,Kolkata,Scooter,Part-time,4.13,N
 DP08183,Sneha W,Pune,Bike,Contract,3.88,Y
-DP14535,Pooja Q,Hyderabad,Scooter,Contract,4.0,Y
+DP14535,Pooja Q,Hyderabad,Scooter,Contract,4,Y
 DP03795,Deepak I,Mumbai,Car,Full-time,4.21,Y
 DP04713,Pooja U,Ahmedabad,Bike,Part-time,4.27,Y
 DP05803,Vikas W,Kolkata,Scooter,Part-time,4.12,N
@@ -14471,7 +14471,7 @@ DP12184,Amit C,Chennai,Bike,Contract,4.23,Y
 DP11510,Santosh F,Mumbai,Cycle,Full-time,4.68,N
 DP00209,Divya X,Mumbai,Scooter,Full-time,3.7,N
 DP01164,Amit M,Ahmedabad,Scooter,Full-time,4.34,Y
-DP07134,Pooja L,Bengaluru,Bike,Part-time,4.0,Y
+DP07134,Pooja L,Bengaluru,Bike,Part-time,4,Y
 DP13831,Amit P,Bengaluru,Scooter,Full-time,4.03,Y
 DP02722,Deepak V,Bengaluru,Cycle,Full-time,4.03,Y
 DP00216,Divya U,Kolkata,Bike,Part-time,3.95,Y
@@ -14504,7 +14504,7 @@ DP07210,Kiran D,Mumbai,Bike,Full-time,4.19,Y
 DP07865,Divya G,Kolkata,Scooter,Part-time,4.49,Y
 DP06019,Ananya U,Chennai,Cycle,Part-time,3.65,N
 DP10793,Arjun A,Mumbai,Scooter,Full-time,4.21,Y
-DP07292,Rakesh Y,Bengaluru,Scooter,Contract,4.0,Y
+DP07292,Rakesh Y,Bengaluru,Scooter,Contract,4,Y
 DP02843,Shreya J,Delhi,Scooter,Full-time,4.56,Y
 DP00870,Arjun V,Hyderabad,Bike,Part-time,4.26,Y
 DP00157,Priya X,Delhi,Scooter,Part-time,4.55,N
@@ -14583,7 +14583,7 @@ DP14903,Pooja I,Delhi,Scooter,Full-time,3.84,Y
 DP07300,Manoj M,Delhi,Scooter,Part-time,4.38,Y
 DP11111,Sneha J,Bengaluru,Cycle,Full-time,4.53,Y
 DP02022,Neha B,Hyderabad,Scooter,Full-time,4.27,N
-DP14809,Ravi D,Ahmedabad,Bike,Contract,4.0,Y
+DP14809,Ravi D,Ahmedabad,Bike,Contract,4,Y
 DP13532,Deepak G,Bengaluru,Scooter,Full-time,3.94,Y
 DP12586,Deepak W,Bengaluru,Bike,Part-time,3.5,Y
 DP14094,Rakesh H,Bengaluru,Scooter,Full-time,4.42,Y
@@ -14686,7 +14686,7 @@ DP00152,Vikas V,Bengaluru,Scooter,Part-time,4.12,Y
 DP11809,Manoj X,Chennai,Scooter,Contract,3.7,Y
 DP02221,Ananya U,Mumbai,Bike,Part-time,4.06,Y
 DP02345,Ananya D,Mumbai,Bike,Contract,4.03,Y
-DP05891,Priya R,Hyderabad,Cycle,Part-time,4.0,Y
+DP05891,Priya R,Hyderabad,Cycle,Part-time,4,Y
 DP06502,Rakesh K,Delhi,Cycle,Contract,4.2,Y
 DP01923,Amit P,Mumbai,Car,Full-time,4.3,N
 DP07894,Sneha R,Chennai,Bike,Contract,4.48,N
@@ -14826,7 +14826,7 @@ DP14708,Suresh A,Chennai,Bike,Part-time,4.24,Y
 DP08276,Divya U,Mumbai,Bike,Part-time,4.28,Y
 DP13206,Kiran E,Chennai,Bike,Full-time,4.21,Y
 DP13505,Amit Y,Delhi,Bike,Part-time,3.84,Y
-DP13956,Nikhil S,Delhi,Scooter,Contract,4.0,Y
+DP13956,Nikhil S,Delhi,Scooter,Contract,4,Y
 DP04209,Sneha M,Bengaluru,Scooter,Full-time,4.25,Y
 DP05613,Shreya Z,Mumbai,Scooter,Contract,4.58,Y
 DP04523,Manoj O,Kolkata,Scooter,Part-time,4.14,N
@@ -14856,7 +14856,7 @@ DP07399,Arjun Z,Delhi,Cycle,Part-time,4.02,Y
 DP12297,Suresh F,Chennai,Scooter,Full-time,4.52,Y
 DP05186,Nikhil U,Pune,Bike,Full-time,3.6,Y
 DP06194,Vikas V,Pune,Scooter,Full-time,4.36,Y
-DP07777,Arjun M,Ahmedabad,Bike,Contract,4.0,Y
+DP07777,Arjun M,Ahmedabad,Bike,Contract,4,Y
 DP02669,Divya E,Ahmedabad,Scooter,Part-time,4.35,Y
 DP02499,Ananya C,Chennai,Bike,Full-time,4.36,Y
 DP03880,Nikhil J,Delhi,Bike,Full-time,4.19,Y
@@ -14922,7 +14922,7 @@ DP10407,Pooja C,Ahmedabad,Bike,Full-time,4.09,Y
 DP05420,Shreya X,Delhi,Scooter,Full-time,4.44,Y
 DP06056,Deepak T,Pune,Bike,Contract,3.96,Y
 DP11673,Nikhil B,Hyderabad,Bike,Full-time,4.29,Y
-DP14333,Nikhil X,Ahmedabad,Car,Part-time,4.0,Y
+DP14333,Nikhil X,Ahmedabad,Car,Part-time,4,Y
 DP10727,Rahul Y,Pune,Scooter,Part-time,4.49,Y
 DP05567,Arjun J,Pune,Scooter,Full-time,3.64,Y
 DP12407,Manoj Z,Delhi,Cycle,Full-time,4.43,Y
