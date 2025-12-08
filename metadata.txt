@@ -47,9 +47,11 @@ item_discount: Discount applied to the item.
 
 line_total: Price after applying item discount.
 
-fact_ratings
+
 
 --------------------------------------------------------------------------------------------------
+fact_ratings
+
 
 Purpose:
 Contains ratings and review data provided by customers for each order.
