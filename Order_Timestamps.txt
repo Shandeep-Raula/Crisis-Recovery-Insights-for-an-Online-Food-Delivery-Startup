@@ -1,0 +1,40 @@
+Order_Timestamps = 
+ADDCOLUMNS (
+    DISTINCT ( fact_orders[order_timestamp] ),
+
+    // Basic date fields
+    "Order Date", DATE ( YEAR ( [order_timestamp] ), MONTH ( [order_timestamp] ), DAY ( [order_timestamp] ) ),
+    "Year", YEAR ( [order_timestamp] ),
+    "Month Number", MONTH ( [order_timestamp] ),
+    "Month Name", FORMAT ( [order_timestamp], "MMMM" ),
+    "Day", DAY ( [order_timestamp] ),
+    "Day Name", FORMAT ( [order_timestamp], "DDDD" ),
+
+    // Week number (ISO Week)
+    "Week Number", WEEKNUM ( [order_timestamp], 2 ),
+
+    // Day of week number (1 = Monday, 7 = Sunday)
+    "Day of Week Number", WEEKDAY ( [order_timestamp], 2 ),
+
+    // Day Type: Weekday or Weekend
+    "Day Type",
+        IF (
+            WEEKDAY ( [order_timestamp], 2 ) >= 6,
+            "Weekend",
+            "Weekday"
+        ),
+
+    // Time components
+    "Hour", HOUR ( [order_timestamp] ),
+    "Minute", MINUTE ( [order_timestamp] ),
+
+    // Phase of Day based on hour
+    "Phase",
+        SWITCH (
+            TRUE(),
+            HOUR ( [order_timestamp] ) >= 5 && HOUR ( [order_timestamp] ) < 12, "Morning",
+            HOUR ( [order_timestamp] ) >= 12 && HOUR ( [order_timestamp] ) < 17, "Afternoon",
+            HOUR ( [order_timestamp] ) >= 17 && HOUR ( [order_timestamp] ) < 21, "Evening",
+            "Night"
+        )
+)
