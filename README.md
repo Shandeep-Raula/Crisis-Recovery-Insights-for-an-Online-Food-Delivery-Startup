@@ -14,3 +14,9 @@ aggressive campaigns, worsening the situation.
 
 ### ER Diagram
 ![ER Diagram of Project](https://github.com/Shandeep-Raula/Crisis-Recovery-Insights-for-an-Online-Food-Delivery-Startup/blob/main/Figure/ER_Diagram.png)
+
+
+### Tools & Technolgies 
+- Snowflake
+- Power Bi , DAX
+- Power Point
