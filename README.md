@@ -17,6 +17,7 @@ aggressive campaigns, worsening the situation.
 
 
 ### Tools & Technolgies 
-- Snowflake
+- Snowflake, SQL
 - Power Bi , DAX
 - Power Point
+
