@@ -23,7 +23,16 @@ aggressive campaigns, worsening the situation.
 
 ## Insights
 
-### 👥 The Customer Situation
+### 📅 How We're Reading the Data
+ 
+| Phase | Period |
+|---|---|
+| ✅ Pre-Crisis | On or before 31 May 2025 |
+| 🔴 Crisis | From 1 June 2025 onward |
+ 
+---
+ 
+## 👥 1. Customer Health
  
 Let's be honest — **83.81% churn** is not a metric you want to put in a slide deck. But here's what it actually looks like month by month:
  
@@ -45,20 +54,20 @@ Dec   ████████████████      16.5K  ← recovery 
 - We had **86.8K customers before** the crisis. Only **32.4K stuck around** after.
 - During the crisis, we only brought in **13.9K new customers** — not nearly enough to offset the loss.
 - The December rebound to **16.5K** is genuinely encouraging, but we're still miles from where we were.
-### 🏙️ Where Our Customers Come From
+### 🏙️ City Contribution, Revenue & Cancellation Rate
  
-| City | Customers | Status |
-|---|---|---|
-| Bengaluru | 16K | ✅ High contributor (24.75%) |
-| Delhi | 8K | ✅ High contributor (14.84%) |
-| Mumbai | 8K | 🔵 Medium (— ) |
-| Chennai | 5K | 🔵 Medium (10.06%) |
-| Hyderabad | 5K | 🔵 Medium (10.15%) |
-| Kolkata | 5K | — |
-| Pune | 4K | — |
-| Ahmedabad | 4K | ⚠️ Low (8.23%) |
+| City | Customers | Revenue | Contribution | Cancellation Rate | Status |
+|---|---|---|---|---|---|
+| Bengaluru | 16K | ₹12M | 24.75% | 7.49% | ✅ High |
+| Delhi | 8K | ₹7M | 14.84% | 7.33% | ✅ High |
+| Mumbai | 8K | ₹7M | 14.80% | 7.41% | ✅ High |
+| Hyderabad | 5K | ₹5M | 10.15% | 7.52% | 🔵 Medium |
+| Chennai | 5K | ₹5M | 10.06% | 7.48% | 🔵 Medium |
+| Kolkata | 5K | ₹4M | 9.18% | 7.30% | ⚠️ Low |
+| Ahmedabad | 4K | ₹4M | 8.23% | 7.73% | ⚠️ Low |
+| Pune | 4K | ₹4M | 8.00% | 7.37% | ⚠️ Low |
  
-**Bengaluru is the backbone.** If we're putting resources anywhere, it starts there.
+> **Bengaluru is the backbone** — nearly ₹12M in revenue and 24.75% of all orders. That's double the next city. Ahmedabad has both the lowest contribution AND the highest cancellation rate — a problem that compounds itself.
  
 ### 🔁 Loyalty Breakdown (Ouch)
  
@@ -67,33 +76,46 @@ Dec   ████████████████      16.5K  ← recovery 
 | One-time buyers | 70,799 | Ordered exactly once |
 | Occasional | 26,410 | Ordered twice |
 | Regular | 7,950 | 3–5 orders |
-| VIP | **21** | 6+ orders |
+| **VIP** | **21** | **6+ orders** |
  
-Twenty-one VIP customers. That's a dinner party, not a loyalty program. This is probably the single most important thing to fix.
+Twenty-one VIP customers. That's a dinner party, not a loyalty program. This is probably the single most important thing to fix long-term.
+ 
+### 🕐 City × Time-of-Day Order Distribution
+ 
+| City | Afternoon | Evening | Night |
+|---|---|---|---|
+| Bengaluru | 14,860 | 10,962 | 11,097 |
+| Delhi | 8,869 | 6,712 | 6,557 |
+| Mumbai | 8,838 | 6,604 | 6,631 |
+| Chennai | 6,095 | 4,479 | 4,426 |
+| Hyderabad | 6,065 | 4,554 | 4,516 |
+| Kolkata | 5,487 | 4,122 | 4,087 |
+| Pune | 4,855 | 3,602 | 3,477 |
+| Ahmedabad | 4,859 | 3,662 | 3,750 |
+ 
+Afternoons dominate across every city (~60K total vs ~45K evenings and ~45K nights). Bengaluru's afternoon slot alone is larger than Delhi's entire day.
  
 ---
  
-## 📦 Orders & Revenue
- 
-The headline numbers:
+## 📦 2. Orders & Revenue
  
 | Metric | Value |
 |---|---|
 | Total orders | 149K |
 | Revenue | ₹48.56M |
-| Average order value | ₹325.55 |
+| Average order value (AOV) | ₹325.55 |
 | Cancelled orders | 11K |
 | Cancellation rate | 7.45% |
-| Order decline (crisis vs pre) | **68.74%** |
+| Order decline % (crisis vs pre) | **68.74%** |
 | Discount ratio | 6.01% |
 | Cash on delivery (COD) | 47K orders |
-| Total items delivered | 685K |
+| Total quantity delivered | 685K |
+| Avg customer rating | 4.05 |
+| Avg sentiment score | 0.53 |
  
-**The crisis impact on orders was brutal.** Pre-crisis months were humming along at 22–23K orders/month. Crisis months dropped to 8–9K. And **75.83% of all 149K orders** happened before June — meaning the crisis period only accounts for roughly one in four orders.
+**The crisis impact was brutal.** Pre-crisis months ran at 22–23K orders/month. Crisis months dropped to 8–9K. And **75.83% of all 149K orders** happened before June — the crisis period accounts for roughly 1 in 4 orders only.
  
-### 🍽️ What People Are Ordering
- 
-By revenue, the cuisine leaderboard looks like this:
+### 🍽️ Revenue by Cuisine Type
  
 ```
 North Indian   ████████████████████  ₹9.6M  🏆
@@ -106,38 +128,100 @@ Desserts       ████████              ₹4.0M
 Healthy        █████                 ₹2.5M
 ```
  
-North Indian and Biryani are the workhorses. Healthy food is way behind — either people aren't ordering it, or we're not marketing it well enough.
- 
-### ⏰ When People Order
- 
-Afternoons are king:
- 
-| Time Slot | Orders |
-|---|---|
-| Afternoon | ~60K |
-| Evening | ~45K |
-| Night | ~45K |
- 
-Every city follows this pattern. If you're planning promotions or staffing up, **12pm–4pm is your golden window**.
- 
-### 🍟 Top Menu Items by Volume
- 
-| Item | Quantity |
-|---|---|
-| Butter Naan | 14,992 |
-| Chicken 65 | 13,819 |
-| Brownie with Ice Cream | 12,758 |
-| Chicken Biryani | 10,286 |
-| Cheesy Dip | 9,972 |
-| Bonda | 9,143 |
- 
-Butter Naan is the quiet MVP of the entire menu.
+North Indian dominates. The gap between North Indian (₹9.6M) and Healthy (₹2.5M) is nearly 4x — either people aren't ordering healthy food, or we're not surfacing it properly.
  
 ---
  
-## 🚴 Delivery — Where Things Went Wrong
+## 🍟 3. Full Menu Performance — High-Demand Items
  
-This is probably the root cause of everything else.
+Every item ranked by order quantity across the platform. This is the complete list from the dashboard.
+ 
+### 🏆 Top 20 Items by Quantity
+ 
+| Rank | Item | Quantity |
+|---|---|---|
+| 1 | Sweet Lassi | **47,561** |
+| 2 | Veg Cutlet | **20,977** |
+| 3 | Gobi Manchurian | **20,848** |
+| 4 | Paneer Tikka | **20,683** |
+| 5 | Masala Chai | **20,571** |
+| 6 | Cold Coffee | **20,223** |
+| 7 | Fresh Lime Soda | **20,414** |
+| 8 | Veg Biryani | **19,002** |
+| 9 | Paneer Biryani | **18,820** |
+| 10 | Idli Sambar | **15,391** |
+| 11 | Butter Naan | **14,992** |
+| 12 | Fish Fry | **13,942** |
+| 13 | Chicken Tikka | **13,862** |
+| 14 | Chicken 65 | **13,819** |
+| 15 | Egg Fried Rice | **13,742** |
+| 16 | Brownie with Ice Cream | **12,758** |
+| 17 | French Fries | **10,804** |
+| 18 | Mutton Biryani | **10,386** |
+| 19 | Egg Biryani | **10,377** |
+| 20 | Chicken Biryani | **10,286** |
+ 
+> **Sweet Lassi at 47,561** is the runaway #1 — nearly **2.4x the next item**. Nobody saw that coming. It's a drink, not a meal, and it's outselling everything else by a mile. Bundle it. Promote it. Make it the face of the platform.
+ 
+### 📋 Complete Item Catalogue (A–Z with quantities)
+ 
+| Item | Qty | Item | Qty |
+|---|---|---|---|
+| Bonda | 9,143 | Paneer Biryani | 18,820 |
+| Brownie with Ice Cream | 12,758 | Paneer Burger | 4,784 |
+| Butter Chicken | 4,652 | Paneer Butter Masala | 5,031 |
+| Butter Naan | 14,992 | Paneer Kathi Roll | 4,898 |
+| Cheesy Dip | 9,972 | Paneer Protein Bowl | 2,990 |
+| Chicken 65 | 13,819 | Paneer Tikka | 20,683 |
+| Chicken Biryani | 10,286 | Paneer Tikka Pizza | 4,994 |
+| Chicken Burger | 8,051 | Pepperoni Pizza | 5,959 |
+| Chicken Caesar Salad | 2,652 | Peri-Peri Fries | 6,685 |
+| Chicken Fried Rice | 7,699 | Plain Dosa | 6,197 |
+| Chicken Hakka Noodles | 7,603 | Rasmalai | 5,522 |
+| Chicken Kathi Roll | 3,915 | Rava Idli | 9,292 |
+| Chicken Protein Bowl | 4,705 | Schezwan Fried Rice | 9,338 |
+| Chicken Puff | 6,267 | Schezwan Veg Noodles | 9,672 |
+| Chicken Tikka | 13,862 | Sweet Lassi | **47,561** |
+| Chicken Tikka Masala | 4,591 | Tandoori Roti | 6,351 |
+| Chicken Tikka Pizza | 6,125 | Vada | 9,185 |
+| Chicken Wings | 6,727 | Veg Biryani | 19,002 |
+| Chole Masala | 4,945 | Veg Buddha Bowl | 2,886 |
+| Cold Coffee | 20,223 | Veg Burger | 4,973 |
+| Curd Rice | 6,221 | Veg Caesar Salad | 4,139 |
+| Dal Tadka | 4,966 | Veg Cutlet | 20,977 |
+| Egg Biryani | 10,377 | Veg Fried Rice | 9,300 |
+| Egg Dosa | 6,077 | Veg Hakka Noodles | 9,376 |
+| Egg Fried Rice | 13,742 | Veg Pulao | 6,004 |
+| Egg Noodles | 7,775 | Veg Wrap | 4,876 |
+| Egg Roll | 3,974 | Veggie Supreme Pizza | 5,025 |
+| Falooda | 5,331 | Watermelon Juice | 4,041 |
+| Fish Fry | 13,942 | French Fries | 10,804 |
+| Fresh Lime Soda | 20,414 | Garlic Naan | 6,493 |
+| Fresh Orange Juice | 7,028 | Gobi Manchurian | 20,848 |
+| Greek Salad | 4,203 | Gulab Jamun | 5,459 |
+| Idli Sambar | 15,391 | Kadai Paneer | 5,134 |
+| Laccha Paratha | 6,349 | Margherita Pizza | 4,843 |
+| Masala Chai | 20,571 | Masala Dosa | 6,297 |
+| Mutton Biryani | 10,386 | Mutton Rogan Josh | 4,597 |
+| Mysore Masala Dosa | 6,177 | | |
+ 
+### 🔍 Menu Insights That Actually Matter
+ 
+**Beverages are carrying the menu.** Sweet Lassi (47,561), Cold Coffee (20,223), Fresh Lime Soda (20,414), and Masala Chai (20,571) are all in the top 10. Drinks are not an afterthought here — they're a core revenue engine being undermarketed.
+ 
+**Veg is punching way above its weight.** Gobi Manchurian (20,848), Paneer Tikka (20,683), Veg Cutlet (20,977), Veg Biryani (19,002) all outsell most non-veg dishes. The veg vs. non-veg split is far closer than most food delivery platforms expect.
+ 
+**Biryani is a category in itself.** Veg (19,002) + Paneer (18,820) + Egg (10,377) + Mutton (10,386) + Chicken (10,286) = **68,871 combined biryani orders**. No single other cuisine category comes close in raw volume.
+ 
+**Protein bowls and salads are the underperformers.** Chicken Caesar Salad (2,652), Chicken Protein Bowl (4,705), Paneer Protein Bowl (2,990), and Veg Buddha Bowl (2,886) sit at the bottom. The wellness category has a major discoverability problem.
+ 
+**Butter Naan (14,992) is the silent workhorse.** It's ordered as a standalone and as a side to almost everything North Indian. It's the quiet glue of the top revenue cuisine.
+ 
+---
+ 
+## 🚴 4. Delivery — Where Things Went Wrong
+ 
+This is the root cause of most other problems on this dashboard.
  
 | Metric | Value |
 |---|---|
@@ -147,159 +231,223 @@ This is probably the root cause of everything else.
 | Cancelled after delay | 8K |
 | Avg delivery distance | 4.49 km |
 | Avg time per km | 9.88 min |
+| Avg delivery delay | 5.71 min |
  
-**Only 36% of orders arrived on time.** The other 64% were delayed. That's not a bad day — that's a structural problem.
+Only **36% of orders arrived on time.** The other 64% were delayed. That's not a rough patch — that's structural.
  
 ### ⏱️ How Delivery Time Changed
  
 ```
-Jan–May (pre-crisis):  ~39.5 min  ✅
-Jun onward (crisis):   ~60.0 min  🔴
+Jan–May (pre-crisis):  ~39.5 min  ✅ within acceptable range
+Jun onward (crisis):   ~60.0 min  🔴 over SLA by 52%
 ```
  
-Delivery times jumped by over 50% the moment the crisis hit and never came back down within the dataset period.
+Delivery times jumped the moment the crisis hit and never came back down within the data window.
  
-### 📊 Delay Severity
+### 📊 Delay Severity Breakdown
  
-| Delay Category | Orders |
+| Category | Orders |
 |---|---|
 | On-time | 52K |
 | 0–10 min late | 50K |
 | 10–20 min late | 26K |
 | 20+ min late | 16K |
  
-And here's the kicker — **cancellation rate goes from 5.31% for on-time orders to 16.36% for delayed ones**. Slow delivery isn't just annoying, it's actively killing orders.
+### 💥 The Delivery–Cancellation Link (The Smoking Gun)
  
-### 🛵 Our Delivery Fleet
+```
+On-time deliveries (≤40 min):   Cancellation rate =  5.31%  ✅
+Delayed deliveries (60+ min):   Cancellation rate = 16.36%  🔴
+```
  
-| Vehicle | Count |
-|---|---|
-| Scooter | 6.0K |
-| Bike | 5.9K |
-| Cycle | 2.3K |
-| Car | 0.8K |
+**Cancellation rate triples when delivery is late.** The scatter plot shows a clean inflection at ~55–60 minutes — beyond that, cancellations spike hard. Every operational decision should target keeping delivery under 55 minutes as a non-negotiable.
  
-**Workforce mix:**
-- Full-time: 50.69%
-- Part-time: 29.77%
-- Contract: 19.54%
-Nearly half the workforce is part-time or contract. That's fine during normal times, but explains why we struggled to scale during the crisis — there's no buffer.
+### 🛵 Fleet & Workforce
+ 
+| Vehicle | Count | Employment Type | Share |
+|---|---|---|---|
+| Scooter | 6,000 | Full-time | 50.69% |
+| Bike | 5,900 | Part-time | 29.77% |
+| Cycle | 2,300 | Contract | 19.54% |
+| Car | 800 | | |
+ 
+Nearly half the workforce is part-time or contract. That's exactly why the platform couldn't absorb the crisis — there was no buffer capacity to call on.
  
 ---
  
-## 🏪 Restaurant Partners
+## 🏪 5. Restaurant Partners
  
-- **18,000 active restaurants** across the platform
-- Avg partner rating: **4.05**
-- Partner cancellation rate: **7.45%**
+| Metric | Value |
+|---|---|
+| Active restaurants | 18K |
+| Avg partner rating | 4.05 |
+| Partner cancellation rate | 7.45% |
+| Avg preparation time | 24.19 min |
+ 
 ### ⚠️ High-Risk Partners
  
-Some restaurant partners are showing worrying signs — low ratings AND low order volumes is a red flag combo:
+| Restaurant | Rating | Orders | Revenue | Status |
+|---|---|---|---|---|
+| Annapurna Biryani Adda | 4.05 | 19 | ₹5,486 | ⚠️ High Risk |
+| Annapurna Biryani Cafe | 3.50 | 15 | ₹6,212 | ⚠️ High Risk |
+| Annapurna Biryani Central | 3.60 | 7 | ₹2,659 | ⚠️ High Risk |
+| Annapurna Biryani Bhojanalay | 4.07 | 22 | ₹7,644 | ✅ Stable |
  
-| Restaurant | Rating | Orders | Status |
-|---|---|---|---|
-| Annapurna Biryani Adda | 4.05 | 19 | ⚠️ High Risk |
-| Annapurna Biryani Cafe | 3.50 | 15 | ⚠️ High Risk |
-| Annapurna Biryani Central | 3.60 | 7 | ⚠️ High Risk |
-| Annapurna Biryani Bhojanalay | 4.07 | 22 | ✅ Stable |
- 
-Low-rating partners drag down platform trust. These need intervention — either coaching or offboarding.
+Restaurants rated below 3.6 with fewer than 20 orders are operating below any reasonable quality threshold. These need active intervention — quality coaching or offboarding.
  
 ---
  
-## 💬 What Customers Are Saying
+## 💬 6. Customer Sentiment & Trust
  
 | Metric | Value |
 |---|---|
 | Total reviews | 69K |
-| Positive reviews | 56.3K (81.73%) |
-| Negative reviews | 11.9K (17.28%) |
+| Positive reviews | 56.3K **(81.73%)** |
 | Neutral reviews | 0.7K (0.99%) |
+| Negative reviews | 11.9K **(17.28%)** |
 | Avg sentiment score | 0.53 |
-| Rating drop during crisis | **44.28%** |
-| Feedback coverage | 46.14% |
+| Avg customer rating | 4.05 |
+| Rating drop % | **44.28%** |
+| Feedback coverage | **46.14%** |
+ 
+### 😊 Customer Sentiment Breakdown
+ 
+```
+Positive  ████████████████████████████████████████  56.3K  (81.73%)
+Negative  ████████                                  11.9K  (17.28%)
+Neutral   ▌                                          0.7K   (0.99%)
+```
+ 
+The majority of people who review are positive — but only **46% of orders generate any review at all**. We're making decisions with half the data we should have. The 54% who say nothing are the silent churn risk.
  
 ### 📉 The Rating Collapse
  
 ```
-Jan:  4.6  ████████████████████
-Feb:  4.4  ████████████████████
-Mar:  4.7  █████████████████████
-Apr:  4.3  ████████████████████
-May:  4.5  █████████████████████ ← last good month
-Jun:  2.6  ████████████
-Jul:  2.7  █████████████
-Aug:  2.4  ███████████
-Sep:  2.3  ██████████           ← lowest point
+Jan   4.6  ████████████████████████
+Feb   4.4  ████████████████████████
+Mar   4.7  █████████████████████████  ← all-time high
+Apr   4.3  ████████████████████████
+May   4.5  █████████████████████████  ← last good month
+Jun   2.6  ██████████████
+Jul   2.7  ███████████████
+Aug   2.4  █████████████
+Sep   2.3  ████████████              ← lowest point
 ```
  
-Ratings nearly halved overnight. And they haven't recovered within the data window. This tracks perfectly with the delivery time spike.
+Ratings nearly halved overnight in June — perfectly mirroring the delivery time spike. The platform went from a 4.5+ rated service to a 2.3-rated one in a single month.
  
-### 🗺️ City-Level Sentiment
+### 🗺️ City-Level Sentiment Heatmap
  
-| City | Sentiment Score | Avg Rating |
-|---|---|---|
-| Ahmedabad | 0.54 | 4.07 |
-| Kolkata | 0.53 | 4.07 |
-| Mumbai | 0.53 | 4.06 |
-| Chennai | 0.53 | 4.06 |
-| Delhi | 0.52 | 4.05 |
-| Bengaluru | 0.52 | 4.05 |
-| Hyderabad | 0.52 | 4.04 |
-| Pune | 0.52 | **4.03** |
+| City | Reviews | Sentiment Score | Avg Rating |
+|---|---|---|---|
+| Ahmedabad | 5,559 | **0.54** | **4.07** |
+| Kolkata | 6,408 | 0.53 | 4.07 |
+| Mumbai | 10,079 | 0.53 | 4.06 |
+| Chennai | 6,970 | 0.53 | 4.06 |
+| Delhi | 10,318 | 0.52 | 4.05 |
+| Bengaluru | 17,072 | 0.52 | 4.05 |
+| Hyderabad | 6,884 | 0.52 | 4.04 |
+| Pune | 5,535 | 0.52 | **4.03** |
  
-Ahmedabad and Kolkata punch above their weight on sentiment. Pune is lagging — worth investigating why.
+Ahmedabad leads on sentiment despite being a low revenue contributor — people like the food, delivery just keeps letting them down. Pune has the lowest rating of any city and deserves a closer look.
  
 ### 🔽 The Trust Funnel
  
 ```
-Total orders          149K  (100%)
-↓ Left a review        69K  (46%)
-↓ Positive sentiment   56K  (38%)
-↓ High rating orders   50K  (33%)
+Total orders          149K  ██████████████████████████  100%
+Left a review          69K  ███████████████              46%
+Positive sentiment     56K  █████████████                38%
+High rating orders     50K  ████████████                 33%
 ```
  
-Only 1 in 3 orders ends in a high rating. That's a lot of unrealised goodwill — and a lot of friction we're not catching in reviews because feedback coverage is only 46%.
+Only **1 in 3 orders** ends in a high rating. That's a lot of unrealised goodwill sitting in the 54% who never left any feedback at all.
  
 ---
  
-## 🚨 What Needs to Happen Next
+## 🚨 7. What Needs to Happen Next
  
-Here's a straight-talking priority list based on what the data is actually saying:
+### Priority 1 — Fix Delivery (Everything Else Depends On It)
+A 60-minute average delivery time and 36% SLA compliance is an operational emergency. Cancellations triple beyond 55 minutes — that's the hard engineering target. Nothing else on this list matters until delivery is predictable.
  
-### 1. Fix Delivery — Everything Else Depends On It
-A 60-minute avg delivery time and 36% SLA compliance isn't a KPI problem, it's an operational emergency. Until delivery is fixed, ratings won't recover, cancellations won't drop, and customers won't come back.
+**Quick wins:**
+- Set a 55-minute hard SLA as a non-negotiable platform standard
+- Investigate the root cause of the June delivery time spike
+- Convert top contract riders to part-time for critical peak city-time slots
+### Priority 2 — Win Back Lapsed Customers
+83.81% churn means ~54K customers churned post-crisis. A targeted win-back campaign with a "we've fixed delivery" message and a first-order incentive could recover a meaningful slice without new acquisition spend.
  
-### 2. Launch a Real Retention Campaign
-83.81% churn with only 21 VIP customers means the loyalty program needs to be rebuilt from the ground up. Consider win-back campaigns for the ~54K customers who churned post-crisis.
+### Priority 3 — Double Down on Bengaluru, Delhi, and Mumbai
+Three cities = 54.39% of all orders and the majority of revenue. Invest disproportionately here rather than spreading resources evenly across 8 cities.
  
-### 3. Protect Bengaluru
-It's our highest-volume city, best contributor, and showing strong recovery signals. Don't spread resources equally — invest disproportionately where traction already exists.
+### Priority 4 — Make Sweet Lassi a Brand Moment
+47,561 orders makes it the #1 item by a factor of 2.4x. That's a marketing story hiding in plain sight. Bundle it with biryani (the most popular cuisine category overall), feature it in campaigns, and use it as an acquisition hook.
  
-### 4. Clean Up the Partner Roster
-High-risk restaurants with ratings below 3.6 are a platform trust problem, not just a partner problem. Set minimum thresholds and act on them.
+### Priority 5 — Bundle Beverages with Biryani
+Beverages and Biryani are the two biggest demand categories independently. They're almost never bundled in promotions. Fixing this alone could meaningfully lift AOV from ₹325.55.
  
-### 5. Convert One-Time Buyers
-70,799 people ordered once and never came back. A post-first-order engagement sequence (discount, follow-up, recommendation) could meaningfully move the needle without requiring new acquisition spend.
+### Priority 6 — Clean Up High-Risk Restaurant Partners
+Partners rated below 3.6 with fewer than 20 orders drag down platform trust. Set minimum thresholds and enforce them. The Annapurna Biryani cluster is the obvious first test case.
  
-### 6. Close the Feedback Gap
-Only 46% of orders generate a review. That's a huge blind spot. Push in-app review prompts and incentivise feedback — especially from the 54% who are currently silent.
+### Priority 7 — Close the Feedback Gap
+46% feedback coverage means half of all customer experiences go unrecorded. Push post-delivery review prompts more aggressively. Getting to 65–70% coverage would transform operational visibility.
+ 
+### Priority 8 — Build a Real Loyalty Program
+21 VIP customers is not a loyalty program. Build tiered rewards that make the 2nd, 3rd, and 4th order feel earned. The 70,799 one-time buyers are where the revenue is hiding.
  
 ---
  
-## 📌 Quick Reference — Key Numbers
+## 📌 Quick Reference — All Key Numbers
  
-| What | Number |
+| Metric | Value |
 |---|---|
 | Total customers | 108K |
 | Churn rate | 83.81% |
+| Pre-crisis customers | 86.8K |
+| Post-crisis customers | 32.4K |
+| New customers (crisis) | 13.9K |
 | Revenue | ₹48.56M |
 | AOV | ₹325.55 |
-| Orders | 149K |
+| Total orders | 149K |
+| Cancelled orders | 11K |
+| Cancellation rate | 7.45% |
+| Order decline % | 68.74% |
+| Delayed orders | 91K |
 | SLA compliance | 36.16% |
 | Avg delivery time | 44.4 min |
-| Delayed orders | 91K |
-| Avg rating | 4.05 |
-| Rating drop | 44.28% |
+| On-time cancel rate | 5.31% |
+| Late cancel rate | 16.36% |
 | Active restaurants | 18K |
-| VIP customers | 21 |
+| Avg partner rating | 4.05 |
+| Total reviews | 69K |
+| Positive sentiment | 81.73% (56.3K) |
+| Negative sentiment | 17.28% (11.9K) |
+| Neutral sentiment | 0.99% (0.7K) |
+| Avg customer rating | 4.05 |
+| Rating drop | 44.28% |
+| Feedback coverage | 46.14% |
+| VIP customers | **21** |
+| #1 menu item | Sweet Lassi (47,561) |
+| Top cuisine (revenue) | North Indian (₹9.6M) |
+| Top city (revenue) | Bengaluru (₹12M) |
+| Highest cancel rate city | Ahmedabad (7.73%) |
+| Lowest cancel rate city | Kolkata (7.30%) |
+| Best sentiment city | Ahmedabad (0.54 / 4.07) |
+| Lowest rated city | Pune (4.03) |
+ 
+---
+ 
+## 🗂️ Data Dictionary
+ 
+| Term | Meaning |
+|---|---|
+| ADT | Average Delivery Time |
+| ADD | Average Delivery Delay |
+| AOV | Average Order Value |
+| APT | Average Preparation Time |
+| SLA | Service Level Agreement (on-time delivery target) |
+| COD | Cash on Delivery |
+| Sentiment Score | 0–1 scale; higher = more positive |
+| Pre-crisis | On or before 31 May 2025 |
+| Crisis | From 1 June 2025 onward |
+| High Risk Partner | Low rating + low order volume combination |
+| VIP Customer | 6 or more lifetime orders |
