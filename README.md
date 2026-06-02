@@ -393,7 +393,9 @@ Partners rated below 3.6 with fewer than 20 orders drag down platform trust. Set
  
 ### Priority 8 — Build a Real Loyalty Program
 21 VIP customers is not a loyalty program. Build tiered rewards that make the 2nd, 3rd, and 4th order feel earned. The 70,799 one-time buyers are where the revenue is hiding.
- 
+
+
+![ER Diagram of Project](https://github.com/Shandeep-Raula/Crisis-Recovery-Insights-for-an-Online-Food-Delivery-Startup/blob/main/Figure/Recomendation.png)
 ---
  
 ## 📌 Quick Reference — All Key Numbers
