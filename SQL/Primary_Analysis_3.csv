@@ -1,0 +1,17 @@
+PERIOD,CITY,TOTAL_ORDERS,CANCELLED_ORDERS,CANCELLATION_RATE_PERCENT
+Crisis,Ahmedabad,2916,380,13.03
+Crisis,Mumbai,5264,650,12.35
+Crisis,Chennai,3463,422,12.19
+Crisis,Hyderabad,3589,434,12.09
+Crisis,Kolkata,3226,386,11.97
+Crisis,Bengaluru,8700,1023,11.76
+Crisis,Pune,2901,337,11.62
+Crisis,Delhi,5301,586,11.05
+Pre-Crisis,Bengaluru,28219,1742,6.17
+Pre-Crisis,Delhi,16837,1037,6.16
+Pre-Crisis,Hyderabad,11546,704,6.10
+Pre-Crisis,Ahmedabad,9355,569,6.08
+Pre-Crisis,Chennai,11537,700,6.07
+Pre-Crisis,Pune,9033,542,6.00
+Pre-Crisis,Mumbai,16809,986,5.87
+Pre-Crisis,Kolkata,10470,614,5.86

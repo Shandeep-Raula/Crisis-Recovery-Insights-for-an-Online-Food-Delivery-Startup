@@ -3,101 +3,102 @@ CREATE OR REPLACE DATABASE QUICK_BITE;
 CREATE OR REPLACE SCHEMA QUICK_BITE.RAW;
 USE SCHEMA QUICK_BITE.RAW;
 
--- dim_customer
-CREATE OR REPLACE TABLE RAW.DIM_CUSTOMER (
-    CUSTOMER_ID VARCHAR PRIMARY KEY,
+--------------------------------------------------
+-- DIM_CUSTOMER
+--------------------------------------------------
+CREATE OR REPLACE TABLE DIM_CUSTOMER (
+    CUSTOMER_ID STRING,
     SIGNUP_DATE DATE,
-    CITY STRING,
     ACQUISITION_CHANNEL STRING
 );
 
--- dim_delivery_partner
-CREATE OR REPLACE TABLE dim_delivery_partner (
-    delivery_partner_id VARCHAR PRIMARY KEY,
-    partner_name STRING,
-    city STRING,
-    vehicle_type STRING,
-    employment_type STRING,
-    avg_rating NUMBER(10,2),
-    is_active BOOLEAN
+--------------------------------------------------
+-- DIM_DELIVERY_PARTNER
+--------------------------------------------------
+CREATE OR REPLACE TABLE DIM_DELIVERY_PARTNER (
+    DELIVERY_PARTNER_ID STRING,
+    PARTNER_NAME STRING,
+    VEHICLE_TYPE STRING,
+    EMPLOYMENT_TYPE STRING,
+    AVG_RATING FLOAT,
+    IS_ACTIVE STRING
 );
 
-
--- dim_restaurant
-CREATE OR REPLACE TABLE dim_restaurant (
-    restaurant_id VARCHAR PRIMARY KEY,
-    restaurant_name STRING,
-    city STRING,
-    cuisine_type STRING,
-    partner_type STRING,
-    avg_prep_time_min STRING,
-    is_active STRING
+--------------------------------------------------
+-- DIM_RESTAURANT
+--------------------------------------------------
+CREATE OR REPLACE TABLE DIM_RESTAURANT (
+    RESTAURANT_ID STRING,
+    RESTAURANT_NAME STRING,
+    CITY STRING,
+    CUISINE_TYPE STRING,
+    PARTNER_TYPE STRING,
+    AVG_PREP_TIME_MIN STRING,
+    IS_ACTIVE STRING
 );
 
-
--- dim_menu_item
-CREATE OR REPLACE TABLE dim_menu_item (
-    menu_item_id VARCHAR PRIMARY KEY,
-    restaurant_id VARCHAR,
-    item_name STRING,
-    category STRING,
-    is_veg BOOLEAN,
-    price NUMBER(10,2),
-    FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id)
+--------------------------------------------------
+-- DIM_MENU_ITEM
+--------------------------------------------------
+CREATE OR REPLACE TABLE DIM_MENU_ITEM (
+    MENU_ITEM_ID STRING,
+    RESTAURANT_ID STRING,
+    ITEM_NAME STRING,
+    CATEGORY STRING,
+    IS_VEG STRING,
+    PRICE NUMBER(10,2)
 );
 
--- fact_orders
-CREATE OR REPLACE TABLE fact_orders (
-    order_id VARCHAR PRIMARY KEY,
-    customer_id VARCHAR,
-    restaurant_id VARCHAR,
-    delivery_partner_id VARCHAR,
-    order_timestamp TIMESTAMP_NTZ,
-    subtotal_amount NUMBER(10,2),
-    discount_amount NUMBER(10,2),
-    delivery_fee NUMBER(10,2),
-    total_amount NUMBER(10,2),
-    is_cod BOOLEAN,
-    is_cancelled BOOLEAN,
-    FOREIGN KEY (customer_id) REFERENCES dim_customer(customer_id),
-    FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id),
-    FOREIGN KEY (delivery_partner_id) REFERENCES dim_delivery_partner(delivery_partner_id)
+--------------------------------------------------
+-- FACT_ORDERS
+--------------------------------------------------
+CREATE OR REPLACE TABLE FACT_ORDERS (
+    ORDER_ID STRING,
+    CUSTOMER_ID STRING,
+    RESTAURANT_ID STRING,
+    DELIVERY_PARTNER_ID STRING,
+    ORDER_TIMESTAMP TIMESTAMP,
+    SUBTOTAL_AMOUNT NUMBER(10,2),
+    DISCOUNT_AMOUNT NUMBER(10,2),
+    DELIVERY_FEE NUMBER(10,2),
+    TOTAL_AMOUNT NUMBER(10,2),
+    IS_COD STRING,
+    IS_CANCELLED STRING
 );
 
--- fact_delivery_performance
-CREATE OR REPLACE TABLE fact_delivery_performance (
-    order_id VARCHAR PRIMARY KEY,
-    actual_delivery_time_mins INT,
-    expected_delivery_time_mins INT,
-    distance_km NUMBER(10,1),
-    FOREIGN KEY (order_id) REFERENCES fact_orders(order_id)
+--------------------------------------------------
+-- FACT_ORDER_ITEMS
+--------------------------------------------------
+CREATE OR REPLACE TABLE FACT_ORDER_ITEMS (
+    ORDER_ID STRING,
+    ITEM_ID STRING,
+    MENU_ITEM_ID STRING,
+    RESTAURANT_ID STRING,
+    QUANTITY INTEGER,
+    UNIT_PRICE NUMBER(10,2),
+    ITEM_DISCOUNT NUMBER(10,2),
+    LINE_TOTAL NUMBER(10,2)
 );
 
--- fact_order_items
-CREATE OR REPLACE TABLE fact_order_items (
-    order_id VARCHAR,
-    item_id VARCHAR PRIMARY KEY,
-    menu_item_id VARCHAR,
-    restaurant_id VARCHAR,
-    quantity INT,
-    unit_price NUMBER(10,2),
-    item_discount NUMBER(10,2),
-    line_total NUMBER(10,2),
-    FOREIGN KEY (order_id) REFERENCES fact_orders(order_id),
-    FOREIGN KEY (menu_item_id) REFERENCES dim_menu_item(menu_item_id),
-    FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id)
+--------------------------------------------------
+-- FACT_DELIVERY_PERFORMANCE
+--------------------------------------------------
+CREATE OR REPLACE TABLE FACT_DELIVERY_PERFORMANCE (
+    ORDER_ID STRING,
+    ACTUAL_DELIVERY_TIME_MINS INTEGER,
+    EXPECTED_DELIVERY_TIME_MINS INTEGER,
+    DISTANCE_KM NUMBER(10,2)
 );
 
--- fact_ratings
-CREATE OR REPLACE TABLE fact_ratings (
-    order_id VARCHAR PRIMARY KEY,
-    customer_id VARCHAR,
-    restaurant_id VARCHAR,
-    rating INT,
-    review_text STRING,
-    review_timestamp TIMESTAMP_NTZ,
-    sentiment_score NUMBER(10,2),
-    FOREIGN KEY (order_id) REFERENCES fact_orders(order_id),
-    FOREIGN KEY (customer_id) REFERENCES dim_customer(customer_id),
-    FOREIGN KEY (restaurant_id) REFERENCES dim_restaurant(restaurant_id)
+--------------------------------------------------
+-- FACT_RATINGS
+--------------------------------------------------
+CREATE OR REPLACE TABLE FACT_RATINGS (
+    ORDER_ID STRING,
+    CUSTOMER_ID STRING,
+    RESTAURANT_ID STRING,
+    RATING NUMBER(3,1),
+    REVIEW_TEXT STRING,
+    REVIEW_TIMESTAMP TIMESTAMP,
+    SENTIMENT_SCORE FLOAT
 );

@@ -1,17 +1,19 @@
+-- Cancellation rate analysis by city and period (Pre-Crisis vs Crisis)
+-- Co-authored with CoCo
 WITH order_base AS (
     SELECT
         fo.order_id,
         fo.customer_id,
         fo.is_cancelled,
         fo.order_timestamp,
-        dc.city,
+        dr.city,
         CASE
             WHEN fo.order_timestamp < '2025-06-01' THEN 'Pre-Crisis'
             ELSE 'Crisis'
         END AS period
     FROM fact_orders fo
-    JOIN dim_customer dc
-        ON fo.customer_id = dc.customer_id
+    JOIN dim_restaurant dr
+        ON fo.restaurant_id = dr.restaurant_id
 ),
 
 cancellation_summary AS (
@@ -19,7 +21,7 @@ cancellation_summary AS (
         period,
         city,
         COUNT(order_id) AS total_orders,
-        SUM(CASE WHEN is_cancelled = TRUE THEN 1 ELSE 0 END) AS cancelled_orders
+        SUM(CASE WHEN is_cancelled = 'Y' THEN 1 ELSE 0 END) AS cancelled_orders
     FROM order_base
     GROUP BY period, city
 )

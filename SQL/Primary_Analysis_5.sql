@@ -1,3 +1,4 @@
+
 USE SCHEMA QUICK_BITE.RAW;
 
 WITH delivery_metrics AS (
@@ -18,7 +19,7 @@ WITH delivery_metrics AS (
     FROM QUICK_BITE.RAW.FACT_DELIVERY_PERFORMANCE d
     JOIN QUICK_BITE.RAW.FACT_ORDERS o
       ON d.order_id = o.order_id
-    WHERE COALESCE(o.is_cancelled, FALSE) = FALSE
+    WHERE o.is_cancelled = 'N'
       AND MONTH(o.order_timestamp) IN (1,2,3,4,5,6,7,8,9)
     GROUP BY 1
 )

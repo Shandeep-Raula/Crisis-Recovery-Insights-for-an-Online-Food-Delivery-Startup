@@ -1,88 +1,72 @@
-WITH pre_crisis_spend AS (
+WITH customer_spend AS (
     SELECT
-        customer_id,
-        SUM(total_amount) AS total_spend
-    FROM fact_orders
-    WHERE order_timestamp < '2025-06-01'
-      AND is_cancelled = FALSE
-    GROUP BY customer_id
+        CUSTOMER_ID,
+        SUM(TOTAL_AMOUNT) AS TOTAL_SPEND
+    FROM FACT_ORDERS
+    WHERE ORDER_TIMESTAMP < '2025-04-01'
+    GROUP BY CUSTOMER_ID
 ),
 
-top_5_customers AS (
-    SELECT customer_id
-    FROM (
-        SELECT
-            customer_id,
-            NTILE(20) OVER (ORDER BY total_spend DESC) AS spend_bucket
-        FROM pre_crisis_spend
-    )
-    WHERE spend_bucket = 1
+high_value_customers AS (
+    SELECT
+        CUSTOMER_ID,
+        TOTAL_SPEND
+    FROM customer_spend
+    QUALIFY PERCENT_RANK() OVER (ORDER BY TOTAL_SPEND) >= 0.95
 ),
 
-customer_metrics AS (
+pre_crisis_metrics AS (
     SELECT
-        fo.customer_id,
-
-        COUNT(CASE WHEN fo.order_timestamp < '2025-06-01' THEN fo.order_id END) AS pre_order_count,
-        COUNT(CASE WHEN fo.order_timestamp >= '2025-06-01' THEN fo.order_id END) AS crisis_order_count,
-
-        AVG(CASE WHEN fr.review_timestamp < '2025-06-01' THEN fr.rating END) AS pre_rating,
-        AVG(CASE WHEN fr.review_timestamp >= '2025-06-01' THEN fr.rating END) AS crisis_rating,
-
-        AVG(
-            CASE 
-                WHEN fo.order_timestamp >= '2025-06-01'
-                THEN fdp.actual_delivery_time_mins - fdp.expected_delivery_time_mins
-            END
-        ) AS avg_delivery_delay
-    FROM fact_orders fo
-    JOIN top_5_customers t
-        ON fo.customer_id = t.customer_id
-    LEFT JOIN fact_ratings fr
-        ON fo.order_id = fr.order_id
-    LEFT JOIN fact_delivery_performance fdp
-        ON fo.order_id = fdp.order_id
-    WHERE fo.is_cancelled = FALSE
-    GROUP BY fo.customer_id
+        o.CUSTOMER_ID,
+        COUNT(DISTINCT o.ORDER_ID) AS PRE_CRISIS_ORDERS,
+        AVG(r.RATING) AS PRE_CRISIS_RATING
+    FROM FACT_ORDERS o
+    LEFT JOIN FACT_RATINGS r
+        ON o.ORDER_ID = r.ORDER_ID
+    WHERE o.ORDER_TIMESTAMP < '2025-04-01'
+    GROUP BY o.CUSTOMER_ID
 ),
 
-preferred_cuisine AS (
+crisis_metrics AS (
     SELECT
-        fo.customer_id,
-        dr.cuisine_type,
-        ROW_NUMBER() OVER (
-            PARTITION BY fo.customer_id
-            ORDER BY COUNT(*) DESC
-        ) AS rn
-    FROM fact_orders fo
-    JOIN dim_restaurant dr
-        ON fo.restaurant_id = dr.restaurant_id
-    JOIN top_5_customers t
-        ON fo.customer_id = t.customer_id
-    WHERE fo.order_timestamp < '2025-06-01'
-    GROUP BY fo.customer_id, dr.cuisine_type
+        o.CUSTOMER_ID,
+        COUNT(DISTINCT o.ORDER_ID) AS CRISIS_ORDERS,
+        AVG(r.RATING) AS CRISIS_RATING
+    FROM FACT_ORDERS o
+    LEFT JOIN FACT_RATINGS r
+        ON o.ORDER_ID = r.ORDER_ID
+    WHERE o.ORDER_TIMESTAMP BETWEEN '2025-04-01' AND '2025-04-30'
+    GROUP BY o.CUSTOMER_ID
+),
+
+customer_decline AS (
+    SELECT
+        h.CUSTOMER_ID,
+        h.TOTAL_SPEND,
+
+        p.PRE_CRISIS_ORDERS,
+        COALESCE(c.CRISIS_ORDERS,0) AS CRISIS_ORDERS,
+
+        p.PRE_CRISIS_RATING,
+        c.CRISIS_RATING,
+
+        p.PRE_CRISIS_ORDERS -
+        COALESCE(c.CRISIS_ORDERS,0)
+            AS ORDER_DROP,
+
+        p.PRE_CRISIS_RATING -
+        COALESCE(c.CRISIS_RATING,0)
+            AS RATING_DROP
+
+    FROM high_value_customers h
+    JOIN pre_crisis_metrics p
+        ON h.CUSTOMER_ID = p.CUSTOMER_ID
+    LEFT JOIN crisis_metrics c
+        ON h.CUSTOMER_ID = c.CUSTOMER_ID
 )
 
-SELECT
-    dc.customer_id,
-    dc.city,
-    pc.cuisine_type AS preferred_cuisine,
-
-    pre_order_count,
-    crisis_order_count,
-    (pre_order_count - crisis_order_count) AS order_frequency_drop,
-
-    pre_rating,
-    crisis_rating,
-    (pre_rating - crisis_rating) AS rating_drop,
-
-    avg_delivery_delay
-FROM customer_metrics cm
-JOIN dim_customer dc
-    ON cm.customer_id = dc.customer_id
-LEFT JOIN preferred_cuisine pc
-    ON cm.customer_id = pc.customer_id
-   AND pc.rn = 1
+SELECT *
+FROM customer_decline
 ORDER BY
-    order_frequency_drop DESC,
-    rating_drop DESC;
+    ORDER_DROP DESC,
+    RATING_DROP DESC;

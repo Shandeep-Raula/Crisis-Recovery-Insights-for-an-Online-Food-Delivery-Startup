@@ -1,5 +1,5 @@
-USE SCHEMA QUICK_BITE.RAW;
 
+USE SCHEMA QUICK_BITE.RAW;
 
 WITH city_revenue AS (
     SELECT
@@ -12,7 +12,7 @@ WITH city_revenue AS (
     FROM QUICK_BITE.RAW.FACT_ORDERS o
     JOIN QUICK_BITE.RAW.DIM_RESTAURANT r
       ON o.restaurant_id = r.restaurant_id
-    WHERE COALESCE(o.is_cancelled, FALSE) = FALSE
+    WHERE o.is_cancelled = 'N'
       AND MONTH(o.order_timestamp) BETWEEN 1 AND 9
     GROUP BY r.city, phase
 ),
