@@ -17,9 +17,11 @@ aggressive campaigns, worsening the situation.
 
 
 ## Tools & Technolgies 
-- Snowflake, SQL
-- Power Bi , DAX
-- Power Point
+| Category | Tools |
+|---|---|
+| Database & Warehousing | Snowflake, SQL |
+| Visualization & BI | Power BI, DAX |
+| Analysis | Python (Pandas, Matplotlib, Seaborn) |
 
 ## Insights
 
@@ -131,6 +133,65 @@ Healthy        █████                 ₹2.5M
 North Indian dominates. The gap between North Indian (₹9.6M) and Healthy (₹2.5M) is nearly 4x — either people aren't ordering healthy food, or we're not surfacing it properly.
  
 ---
+
+### 🏙️Cities with Highest % Decline in Orders
+
+**All 8 cities declined between 67–70%. No city was spared.**
+ 
+| Rank | City | Pre-Crisis | Crisis | Decline % |
+|---|---|---|---|---|
+| 1 | Chennai | 11,537 | 3,463 | **-69.98%** |
+| 2 | Kolkata | 10,470 | 3,226 | **-69.19%** |
+| 3 | Bengaluru | 28,219 | 8,700 | **-69.17%** |
+| 4 | Hyderabad | 11,546 | 3,589 | **-68.92%** |
+| 5 | Ahmedabad | 9,355 | 2,916 | **-68.83%** |
+| 6 | Mumbai | 16,809 | 5,264 | -68.68% |
+| 7 | Delhi | 16,837 | 5,301 | -68.52% |
+| 8 | Pune | 9,033 | 2,901 | -67.88% |
+
+---
+
+
+### ❌ Cancellation Rate: Pre-Crisis vs Crisis by City
+ 
+**Cancellation rates roughly doubled across every city during the crisis.**
+ 
+| City | Pre-Crisis Rate | Crisis Rate | Change |
+|---|---|---|---|
+| Ahmedabad | 6.08% | 13.03% | **+6.95 pp** |
+| Mumbai | 5.87% | 12.35% | **+6.48 pp** |
+| Chennai | 6.07% | 12.19% | **+6.12 pp** |
+| Kolkata | 5.86% | 11.97% | **+6.10 pp** |
+| Hyderabad | 6.10% | 12.09% | **+6.00 pp** |
+| Pune | 6.00% | 11.62% | **+5.62 pp** |
+| Bengaluru | 6.17% | 11.76% | **+5.59 pp** |
+| Delhi | 6.16% | 11.05% | **+4.90 pp** |
+
+---
+
+### 💸 Revenue Impact: Pre-Crisis vs Crisis
+ 
+**Total revenue loss during the crisis: ₹26.68M — a 70.92% decline.**
+ 
+| City | Pre-Crisis Revenue | Crisis Revenue | Change |
+|---|---|---|---|
+| Chennai | ₹38.08L | ₹10.68L | **-71.96%** |
+| Kolkata | ₹34.56L | ₹9.92L | **-71.29%** |
+| Ahmedabad | ₹31.06L | ₹8.96L | **-71.16%** |
+| Hyderabad | ₹38.26L | ₹11.10L | **-70.97%** |
+| Mumbai | ₹55.85L | ₹16.22L | **-70.96%** |
+| Bengaluru | ₹92.87L | ₹27.03L | **-70.90%** |
+| Delhi | ₹55.79L | ₹16.45L | **-70.52%** |
+| Pune | ₹29.73L | ₹9.04L | **-69.58%** |
+| **Total** | **₹3.76Cr** | **₹1.09Cr** | **-70.92%** |
+
+```
+Pre-Crisis total:  ₹3.76 Cr  
+Crisis total:      ₹1.09 Cr  
+Revenue lost:      ₹2.67 Cr  in just 4 months
+```
+
+---
  
 ## 🍟 3. Full Menu Performance — High-Demand Items
  
@@ -161,7 +222,7 @@ Every item ranked by order quantity across the platform. This is the complete li
 | 19 | Egg Biryani | **10,377** |
 | 20 | Chicken Biryani | **10,286** |
  
-> **Sweet Lassi at 47,561** is the runaway #1 — nearly **2.4x the next item**. Nobody saw that coming. It's a drink, not a meal, and it's outselling everything else by a mile. Bundle it. Promote it. Make it the face of the platform.
+
  
 ### 📋 Complete Item Catalogue (A–Z with quantities)
  
